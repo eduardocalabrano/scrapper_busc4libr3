@@ -2,6 +2,7 @@ from urllib.request import urlopen
 from urllib.error import HTTPError
 from bs4 import BeautifulSoup
 from buscalibre_funciones import *
+from database_insertions import *
 import re
 import os
 import requests # to get image from the web
@@ -22,6 +23,7 @@ else:
     #Sabemos que el siguiente tag es <ul> para el listado de categorías
     td_tag = parent_tag.parent
     next_td_tag = td_tag.findNext('ul')
+    check_tables()
     #Buscamos todos los hijos de ese <ul> y los almacenamos en un CSV
     for child in next_td_tag.children:
         g = open('cat_libros.csv', 'a', encoding='utf-8')
@@ -29,5 +31,6 @@ else:
         catname = child.get_text()
         g.write(catname+';'+caturl)
         g.write('\n')
+        insert_categories(caturl, catname)
         navega_categoria(caturl, catname)
     ## FIN DE LA PRIMERA PARTE ##p

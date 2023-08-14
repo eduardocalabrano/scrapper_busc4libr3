@@ -1,1 +1,587 @@
-nombre;precio venta;precio antes;formato;autor;editorial;idioma;num paginas;encuadernación;isbn;isbn13;fecha data
+id producto;nombre;precio venta;precio antes;formato;autor;editorial;idioma;num paginas;encuadernación;isbn;isbn13;fecha data
+53970522;Hierba;17160;24510;Libro físico;Keum suk gendry-kim;Reservoir books;Español;488;Tapa rústica;9788418052071;9788418052071;2023-08-13
+54641927;El Arte de Tejer 2023;11240;14990;Libro físico;varios autores;Veredit;Español;144;Tapa blanda;9789878280417;9789878280417;2023-08-13
+54934859;La Banda de Pica pau 3;27030;31800;Libro físico;Yan schenkel;Editorial gg;Español;160;Tapa blanda;9788425234156;9788425234156;2023-08-13
+55004875;Bts Memorias;32950;47070;Libro físico;Myeongseok kang;Plaza y janes;Español;576;Tapa blanda;9789585457805;9789585457805;2023-08-13
+54586387;Mañana, y Mañana, y Mañana (Adn);22490;29990;Libro físico;Gabrielle zevin;Alianza editorial;Español;504;Tapa blanda;9788411481489;9788411481489;2023-08-13
+51621405;El camino del artista;10500;15000;Libro físico;Julia cameron;Aguilar;Español;320;Tapa blanda;9789585549142;9789585549142;2023-08-13
+53723975;Balada de Pájaros Cantores y Serpientes;17160;24510;Libro físico;Suzanne collins;Molino;Español;592;Tapa blanda;9786287514157;9786287514157;2023-08-13
+54557235;Sueñan los Androides con Ovejas Eléctricas?;9270;10900;Libro físico;Philip k. dick;Austral;Español;272;Tapa blanda;9789566180180;9789566180180;2023-08-13
+54892477;Historia Gráfica, los Bunkers - Carlos Cadenas, 2001-2022;59500;70000;Libro físico;Los bunkers;Cinco perros producciones spa;Español;236;Tapa dura;9789560992406;9789560992406;2023-08-13
+54978644;Monstruos Humanos, los Hijos Olvidados del Diablo;18700;22000;Libro físico;Álvaro matus;Editorial arcano iv limitada;Español;280;Tapa blanda;;9789566259015;2023-08-13
+55003993;La Belleza y el Arte;11900;14000;Libro físico;José miguel ibáñez langlois;Ediciones uc;Español;270;Tapa blanda;;9789561431249;2023-08-13
+54472397;Experimento de Amor en Nueva York;20950;;Libro físico;Elena armas;Vera;Español;496;Tapa blanda;9789877479515;9789877479515;2023-08-13
+54641926;Moda Crochet 2023;9740;12990;Libro físico;varios autores;Veredit;Español;80;Tapa blanda;;9789878280387;2023-08-13
+53698091;El mesías de Dune (Dune 2);13790;19700;Libro físico;Frank herbert;Debolsillo;Español;304;Tapa blanda;;9786287513075;2023-08-13
+51598673;Berserk Deluxe Volume 1 (libro en Inglés);51910;72100;Libro físico;Kentaro miura;Dark horse manga;Inglés;696;Tapa dura;;9781506711980;2023-08-13
+6154372;Cartas a Theo;16640;22190;Libro físico;Vincent van gogh;Alianza;Español;496;Tapa blanda;8420670006;9788420670003;2023-08-13
+54387794;Guía de Aves Continentales de Chile Central;2980;3500;Libro físico;Daniel eduardo martínez piña;Museo ediciones spa;Español;12;Desplegable;;9789560952110;2023-08-13
+54906568;Algún Tiempo Atrás;14000;20000;Libro físico;Sergio marchi;Penguin random house grupo editorial;Español;368;Tapa blanda;;9789562626477;2023-08-13
+4024015;Historia de la belleza;27500;38190;Libro físico;Umberto eco;Debolsillo;Español;440;Tapa blanda;8499087019;9788499087016;2023-08-13
+54337130;Una Promesa de Cien Años;13590;15990;Libro físico;Urzúa reyes, maría ignacia;Trayecto comunicaciones;Español;456;Tapa blanda;9789564061207;9789564061207;2023-08-13
+53316376;Secretos del decorador;16800;24000;Libro físico;Aldo ignacio vega mellado, rodrigo hernán jara farías;Gr. ilustrados;Español;304;Tapa blanda;9789562585811;9789562585811;2023-08-13
+51615427;Donde Estan los Beatles Encuentra a los Iconicos Cuatro Fabulosos;5990;7990;Libro físico;Iglo books equipo editorial;Latinbooks;;24;Tapa dura;;9789974894037;2023-08-13
+53693237;Antes del Incal;21000;30000;Libro físico;Alejandro jodorowsky;Reservoir books;Español;312;Tapa dura cartoné;9788418052613;9788418052613;2023-08-13
+53420802;Las Recetas de las Películas del Studio Ghibli;39430;54760;Libro físico;Minh-tri vo;Col&col ediciones;Español;144;Tapa blanda;;9788412033458;2023-08-13
+54385833;Guía de Aves Continentales del Norte de Chile (libro en Inglésespañol);2980;3500;Libro físico;Daniel eduardo martínez piña;Museo ediciones spa;Inglésespañol;12;Desplegable;;9789560952134;2023-08-13
+5046397;El Monstruo sin Nombre;32820;45580;Libro físico;Libros de naoki urasawa;Planeta deagostini cómics;Español;48;Tapa dura;8415480083;9788415480082;2023-08-13
+51615118;Spider-Man: Un Nuevo Universo: El Arte de la Pelicula;54630;75870;Libro físico;Ramin zahed;Norma editorial, s.a.;Español;192;Tapa dura;9788467937497;9788467937497;2023-08-13
+53207162;Violet Hace el Puente Sobre la Hierba;32820;45580;Libro físico;Lana del rey;Libros cúpula;Español;160;Tapa dura;9788448028237;9788448028237;2023-08-13
+51975002;Studio Ghibli: 100 Collectible Postcards: Final Frames From the Feature Films (libro en Inglés);27700;38470;Libro físico;varios autores;Chronicle books;Inglés;100;Tapa dura;9781452168661;9781452168661;2023-08-13
+47293570;Aprende a Promocionar tu Trabajo;25550;35480;Libro físico;Austin kleon;Gustavo gili;Español;216;Tapa blanda;9788425228858;9788425228858;2023-08-13
+53550863;Ghiblioteca;27970;32900;Libro físico;Jake cunningham; michael leader;Minotauro;Español;192;Tapa dura;;9788445010402;2023-08-13
+53098711;El amor en los tiempos del cólera (edición ilustrada);17500;25000;Libro físico;Gabriel garcía márquez;Literatura random house;Español;399;Tapa dura;9789585581432;9789585581432;2023-08-13
+1066117;EL loco y la triste;3060;3600;Libro físico;Juan radrigan;Lom ediciones;Español;78;Tapa blanda;9562827569;9789562827560;2023-08-13
+53393601;Remembranzas: Escenas de una Vida Complicada;35550;49370;Libro físico;Sinead o connor;Libros del kultrum;Español;320;Tapa blanda;9788418404061;9788418404061;2023-08-13
+52098316;Acuarela. Una Guia Para Pintar en Cada Momento;4170;4900;Libro físico;Barbara roth;Contrapunto;Español;128;Dura;;9789562572200;2023-08-13
+54224078;Sobre la Fotografía;6500;10000;Libro físico;Susan sontag;Penguin random house grupo editorial;Español;208;Tapa blanda;9789563255041;9789563255041;2023-08-13
+51423991;Ni Calladitas ni Perfectas;10500;15000;Libro físico;Nerea de ugarte lópez;Montena;Español;120;Tapa blanda;;9789566026020;2023-08-13
+54480492;The Creative Act: A way of Being (libro en Inglés);38340;53250;Libro físico;Rick rubin;Penguin press;Inglés;432;Tapa dura;;9780593652886;2023-08-13
+53342169;Tras los Pasos de Indiana Jones;14280;17900;Libro físico;Salva rubio;Minotauro;Español;322;Tapa blanda;;9788445010235;2023-08-13
+54052462;Condorito y sus Amigos;3740;4990;Libro físico;René ríos boettiger “pepo”;Planeta cómic;Español;72;Tapa blanda;;9789569994722;2023-08-13
+54630480;I Love the Office;16070;18900;Libro físico;Hermes antonio;Dogitia;Español;204;Tapa blanda;;9789569519246;2023-08-13
+49897616;La Paleta Perfecta;39270;54540;Libro físico;Lauren wager;Promopress;Español;303;Tapa blanda;9788416851416;9788416851416;2023-08-13
+51895752;Berserk Deluxe Volume 2 (libro en Inglés);51910;72100;Libro físico;Kentaro miura;Dark horse manga;Inglés;704;Tapa dura;;9781506711997;2023-08-13
+4218965;El Guión Sustancia, Estructura, Estilo y Principios de la Escritura de Guiones;25620;35590;Libro físico;Robert mckee;Alba editorial;Español;550;Tapa blanda;8484284468;9788484284468;2023-08-13
+48113544;El Incal (Integral);36370;51960;Libro físico;Alejandro jodorowsky;Reservoir books;Español;432;Tapa dura;9788416709298;9788416709298;2023-08-13
+52047010;Fleabag: The Scriptures (libro en Inglés);34330;47680;Libro físico;Phoebe waller-bridge;Ballantine books;Inglés;432;Tapa dura;;9780593158272;2023-08-13
+53580500;la Conquista de los Gatos;13180;15500;Libro físico;Alberto montt;Planeta cómic;Español;112;Tapa blanda;9789569994630;9789569994630;2023-08-13
+48122840;La ninfa de porcelana;11200;16000;Libro físico;Isabel allende;Plaza & janes;Español;96;Tapa blanda;9788401019098;9788401019098;2023-08-13
+53952602;Delirio americano;14700;21000;Libro físico;Carlos granés;Taurus;Español;593;Tapa blanda;;9789585165182;2023-08-13
+54520987;Finlay Donovan: Una Escritora de Muerte;20240;26990;Libro físico;Elle cosimano;Contraluz editorial (anaya);Español;480;Tapa blanda. con solapas;;9788418945526;2023-08-13
+46870551;Chile en 1000 Fotos;28820;33900;Libro físico;varios autores;Editorial pehuen;Español;756;Tapa dura;9789561606197;9789561606197;2023-08-13
+52331327;Doctor Sueño;9100;14000;Libro físico;Stephen king;Debolsillo;Español;608;Tapa blanda;9786073153379;9786073153379;2023-08-13
+53384327;Haikyu!  01;10200;18540;Libro físico;Haruichi furudate;Editorial ivrea;Español;200;Tapa blanda;9788418751790;9788418751790;2023-08-13
+54242488;Alegría y Sofía Kaos 2;14880;17500;Libro físico;Thiers abugarade, daniela ximena;Editorial planeta chilena s.a.;Español;142;Tapa blanda;;9789566185239;2023-08-13
+54306103;Cuentos de Insomnio;11540;13770;Libro físico;Lorena rodríguez kittsteiner;Zig-zag;Español;104;Tapa blanda;9789561236691;9789561236691;2023-08-13
+47431761;Anatomía Artística;20230;23800;Libro físico;Michel lauricella;Gustavo gili;Español;320;Tapa blanda;;9788425228988;2023-08-13
+55009922;El Canto Como Respuesta;9350;11000;Libro físico;Jara, victor;Alquimia ediciones;Español;82;Tapa blanda;;9789566188230;2023-08-13
+53591552;Los Hombres de la Transición;19550;23000;Libro físico;Ascanio cavallo castro;Uqbar editores;Español;290;Tapa blanda;9789563760729;9789563760729;2023-08-13
+54106297;El Señor de los Anillos nº 03/03 el Retorno del rey (Ne);20320;23900;Libro físico;J.r.r. tolkien;Minotauro;Español;520;Tapa dura;9788445009611;9788445009611;2023-08-13
+3279459;Mi Amigo el Piano;6640;7810;Libro físico;Elena waiss;Editorial universitaria;Español;50;Tapa blanda;9561120437;9789561120433;2023-08-13
+53739245;Frases de Cine;7500;14990;Libro físico;Benjamin scott y julio rojas;Trayecto;Español;382;Tapa blanda;;9789564060330;2023-08-13
+54610234;Dibuja 101 Cosas de Gatos;11730;13800;Libro físico;Contrapunto;Editorial contrapunto ltda.;Español;112;Tapa blanda;;9789562574099;2023-08-13
+46330511;Curso Basico de Tejido;13860;19800;Libro físico;Vv.aa.;Contrapunto/dk;Español;192;Pasta;;9789562571043;2023-08-13
+4672929;Historia de la fealdad;43600;62280;Libro físico;Umberto eco;Debolsillo;Español;456;Tapa blanda;;9788499892719;2023-08-13
+53616904;Relatos de Vampiros;15140;20190;Libro físico;Autores varios;Editorial alma;Español;320;Tapa dura;;9788418008948;2023-08-13
+48526714;La intemporalidad perdida;9100;13000;Libro físico;Anaïs nin;Lumen;Español;176;Tapa blanda;9788426411167;9788426411167;2023-08-13
+53109960;Persépolis;18840;26920;Libro físico;Marjane satrapi;Reservoir books;Español;350;Tapa blanda;9789585245518;9789585245518;2023-08-13
+2477800;La Historia del Arte;54750;78210;Libro físico;E. h. gombrich,;Phaidon;Español;688;Tapa blanda;0714898708;9780714898704;2023-08-13
+48262806;Teatro Escolar Representable 1;5840;7790;Libro físico;Unda, ruben;Zig zag;Español;176;Tapa blanda;9789561230804;9789561230804;2023-08-13
+47339057;Un Gran Dinosaurio la Historia de la Pelicula y los Personajes (Cuentos de Pelicula) (Cartone);2500;5000;Libro físico;disney;El gato de hojalata;Español;;Tapa blanda;9789877059175;9789877059175;2023-08-13
+54378430;Surrender;13000;26000;Libro físico;Bono;Reservoir books;Español;704;Tapa blanda;;9789566206088;2023-08-13
+54299800;Roba Como un Artista;24960;34660;Libro físico;Austin kleon;Aguilar;Español;176;Tapa blanda;;9786073818056;2023-08-13
+53419637;El Elogio de la Sombra (Bolsillo) (Esenciales Satori);13350;15700;Libro físico;Tanizaki junichiro;Satori ediciones c.b.;Español;96;Tapa blanda;;9788417419752;2023-08-13
+48398757;Como Funciona la Musica;29460;40920;Libro físico;David byrne;Sexto piso;Español;465;Tapa blanda;9786079436551;9786079436551;2023-08-13
+54357232;Acuarela y Mindfulness;11760;16800;Libro físico;Runyan, terry;Editorial contrapunto ltda.;Español;160;Tapa blanda;;9789562573894;2023-08-13
+48297336;Las Vidas Secretas del Color;36830;52620;Libro físico;Kassia st clair;Indicios;Español;320;Tapa dura;;9788415732235;2023-08-13
+51485721;Loa a la Tierra. Un Viaje al Jardín;16410;19300;Libro físico;Byung-chul han;Herder;Español;186;Tapa dura;9788425441806;9788425441806;2023-08-13
+2896675;Teoría Musical y Armonía Moderna Vol. I (Música);23190;32210;Libro físico;Enric herrera;Antoni bosch;Español;136;Tapa blanda;9788485855315;9788485855315;2023-08-13
+54475333;Diseñar la Experiencia;41100;48350;Libro físico;Castillo lillo, gonzalo;Castillo lillo, gonzalo;Español;200;Tapa blanda;;9789564107356;2023-08-13
+48965740;El Sabueso de los Baskerville;5940;8490;Libro físico;Arthur conan doyle;Zig-zag;Español;272;Tapa blanda;;9789561231139;2023-08-13
+50821537;A Hombre Perro: Historia de dos Gatitos;20950;29100;Libro físico;Dav pilkey;Scholastic en espanol;Español;256;Tapa dura;;9781338277708;2023-08-13
+53516078;Alegría y Sofía: Kaos;14880;17500;Libro físico;Daniela thiers;Planeta comic;Español;142;Tapa blanda;9789569994609;9789569994609;2023-08-13
+51583277;Pedagogía Teatral: Metodología Activa en el Aula;12750;15000;Libro físico;Compañía la balanza , maría verónica garcía-huidobro;Ediciones uc;Español;208;Tapa blanda;9789561423701;9789561423701;2023-08-13
+50088780;Anatomía Artística 2: Cómo Dibujar el Cuerpo Humano de Forma Esquemática;12580;14800;Libro físico;Michel lauricella;Gustavo gili;Español;96;Tapa blanda;9788425231179;9788425231179;2023-08-13
+42881171;Alquimia & Mistica;34060;47310;Libro físico;Alexander roob;Taschen;Español;576;Tapa dura;3836549344;9783836549349;2023-08-13
+46389049;Luz y Color;42490;59010;Libro físico;James gurney;Anaya multimedia;Español;224;Tapa blanda;9788441536722;9788441536722;2023-08-13
+54247360;The art of Haikyu! (libro en Inglés);55430;76980;Libro físico;Haruichi furudate;Viz media;Inglés;400;Tapa dura;;9781974733538;2023-08-13
+52883498;La Música del Cosmos;10500;15000;Libro físico;Andrés gomberoff;Debate;Español;272;Tapa blanda;9789566042334;9789566042334;2023-08-13
+48005317;Animales Fantasticos y Donde Encontrarlos (Guion Original de la Pelicula);26370;36620;Libro físico;J. k. rowling;Salamandra;Español;256;Tapa dura;9788498387902;9788498387902;2023-08-13
+53090840;¡Vamos a Buscar! El Camino de Gokú en Chile.;7500;14990;Libro físico;Daniel madrid tapia;Trayecto comunicaciones;Español;400;Tapa blanda;9789566083146;9789566083146;2023-08-13
+52155026;Como Enseñar a Cantar a Niños y Adolescentes;25560;46480;Libro físico;Isabel villagar;Ma non troppo;Español;208;Tapa blanda;;9788412081275;2023-08-13
+49382159;Japanese Knitting Stitch Bible: 260 Exquisite Patterns by Hitomi Shida (libro en Inglés);24730;34350;Libro físico;Hitomi shida;Tuttle publishing;Inglés;160;Tapa blanda;;9784805314531;2023-08-13
+54527028;Mortis Eterno Retorno;20390;23990;Libro físico;Ferrada soto, miguel angelahumada morasky, italo alberto;Editorial arcano iv limitada;Español;160;Tapa dura;9789568849450;9789568849450;2023-08-13
+54471458;The Smiths. 1983-1984... Y el pop cambió para siempre;10200;12000;Libro físico;Marcos gendre;Santiago-ander editorial;Español;150;Tapa blanda;;9789569921278;2023-08-13
+2898609;El Grabado en Madera.;6680;8900;Libro físico;Paul westheim;Fondo de cultura economica;Español;304;Tapa blanda;9681610172;9789681610173;2023-08-13
+54262182;Nier art - Koda Kazuma Works (libro en Inglés);32550;45210;Libro físico;Kazuma kodaka;Square enix books;Inglés;160;Tapa dura;;9781646091805;2023-08-13
+53729622;Aprender a Dibujar con el Lado Derecho del Cerebro;26170;37390;Libro físico;Betty edwards;Urano;Español;320;Tapa blanda;;9788417694210;2023-08-13
+53051153;Roba Como un Artista: Las 10 Cosas que Nadie te ha Dicho Acerca de ser Creativo;21090;29290;Libro físico;Austin kleon;Aguilar;Español;152;Tapa blanda;9781644732922;9781644732922;2023-08-13
+45142362;Carrie;13960;19940;Libro físico;Stephen king;Debolsillo;Español;256;Tapa blanda;9588820871;9789588820873;2023-08-13
+50657728;Yo estoy vivo y vosotros estáis muertos;16800;24000;Libro físico;Emmanuel carrère;Anagrama;Español;376;Tapa blanda;;9788433908087;2023-08-13
+54267414;Harry Potter: Patronus Mini Projector set (rp Minis) (libro en Inglés);13120;17490;Libro físico;Running press;Rp minis;Inglés;16;Tapa blanda;;9780762479580;2023-08-13
+48169446;Interacción del Color;43660;60640;Libro físico;Josef albers;Alianza editorial;Español;218;Tapa blanda;;9788491047223;2023-08-13
+1065828;Hechos Consumados. Teatro 11 obras;13430;15800;Libro físico;Juan radrigán;Lom;Español;256;Sin información;9562820726;9789562820721;2023-08-13
+35974812;Vagabond 01;14270;;Libro físico;Takehiko inoue;Ivrea;Español;260;Tapa blanda;9788415922940;9788415922940;2023-08-13
+53638719;Harry Potter Spiroglyphics (libro en Inglés);22180;30810;Libro físico;Thomas pavitte;Thunder bay press;Inglés;48;Tapa blanda;;9781645172918;2023-08-13
+42069685;El resplandor;14460;20660;Libro físico;Stephen king;Debolsillo;Español;651;Tapa blanda;958878977x;9789588789774;2023-08-13
+52098967;La lista de Schindler;15300;21860;Libro físico;Thomas keneally;B de bolsillo;Español;573;Tapa blanda;9789585566088;9789585566088;2023-08-13
+5463571;Para Selena, con Amor;21390;29710;Libro físico;Chris perez;Celebra;Español;336;Tapa blanda;0451414055;9780451414052;2023-08-13
+26337831;¿Qué estás mirando?;34480;47890;Libro físico;Will gompertz;Taurus;Español;480;Tapa blanda;8430601252;9788430601257;2023-08-13
+34161856;Postpunk: Romper Todo y Empezar de Nuevo;23500;42720;Libro físico;Simon reynolds;Caja negra;Español;560;Tapa blanda;;9789871622238;2023-08-13
+53708867;Erase una vez un Fiscal Adjunto;5200;12990;Libro físico;Rabi, roberto;Trayecto comunicaciones;Español;229;Tapa blanda;9789564060262;9789564060262;2023-08-13
+53693266;Letras;77860;111230;Libro físico;Paul mccartney;Libros cúpula;Español;912;Tapa dura;9788448028909;9788448028909;2023-08-13
+19616619;One Piece Guía nº 01 Red: Gran Characters (Manga Artbooks);23010;31960;Libro físico;Eiichiro oda;Planeta deagostini cómics;Español;268;Tapa blanda;8415480709;9788415480709;2023-08-13
+49645523;Armonia Cromatica. Edicion Pantone;27880;32800;Libro físico;Leatrice eiseman;Blume;Español;216;Tapa blanda;9788416965960;9788416965960;2023-08-13
+14333795;Metamaus;24660;;Libro físico;Art spiegelman;Reservoir books;Español;256;Tapa blanda;8439725426;9788439725428;2023-08-13
+14872676;Diccionario de Musica Mitologia Magia y Religion;131190;182210;Libro físico;Ramon andres;Acantilado;Español;1776;Tapa blanda;8415277938;9788415277934;2023-08-13
+54124716;El Peligro de Estar Cuerda;15730;18500;Libro físico;Rosa montero;Seix barral;Español;360;Tapa blanda;;9789566173021;2023-08-13
+54935025;Chillán 1939;15300;18000;Libro físico;Bonomo,  umberto, cárdenas leal,  karincrispiani enríquez,  alejandro;Ediciones uc;Español;208;Tapa blanda;;9789561430914;2023-08-13
+54398354;Meditaciones de Cine;29880;41500;Libro físico;Quentin tarantino;Reservoir books;Español;432;Tapa blanda;;9788418897801;2023-08-13
+54321547;Backstreet Boys 30Th Anniversary Celebration: Keep the Backstreet Pride Alive (libro en Inglés);33430;46430;Libro físico;Karah-leigh hancock;Epic ink books;Inglés;256;Tapa dura;;9780760382240;2023-08-13
+52877402;Fraterno;4760;11900;Libro físico;Zambra, andre;Trayecto comunicaciones;Español;180;Tapa blanda;9789566083009;9789566083009;2023-08-13
+19204591;The Design of Everyday Things (libro en Inglés);23780;33030;Libro físico;Don norman;Basic books;Inglés;368;Tapa blanda;0465050654;9780465050659;2023-08-13
+53275833;La historia del Heavy Metal;13300;19000;Libro físico;Andrew o'neill;Blackie books;Español;352;Tapa blanda;;9789878453026;2023-08-13
+54051694;Obra Gruesa (libro en Inglésespañol);59500;70000;Libro físico;Radic clarke, smiljan;Ediciones puro chile ltda.;Inglésespañol;292;Tapa dura;9789569016103;9789569016103;2023-08-13
+1365625;Tratado de Dirección de Documentales;53910;74870;Libro físico;Michael rabiger;Ediciones omega, s.a.;Español;680;Tapa blanda;8428214247;9788428214247;2023-08-13
+48152081;Giger;17680;20800;Libro físico;H. r. giger;Taschen;Español;96;Tapa dura;;9783836540582;2023-08-13
+51463588;El desafío de Florencia;25490;35400;Libro físico;Alejandro corral;Ediciones b;Español;416;Tapa dura;;9788466664769;2023-08-13
+52429335;Animales Arquitectos;21080;24800;Libro físico;Juhani pallasmaa;Gustavo gili;Español;144;Tapa dura;9788425232886;9788425232886;2023-08-13
+41343629;Casas Contemporaneas;12140;40480;Libro físico;Carles broto comerma;Links books;Español;300;Tapa dura;8490540500;9788490540503;2023-08-13
+51872575;Stranger Things max la Fugitiva;10790;14380;Libro físico;Brenna yovanoff;Gran travesía;Español;236;Tapa blanda;9788412030419;9788412030419;2023-08-13
+4847516;Conceptos Fundamentales de la Historia del Arte(9788467037845);19280;26780;Libro físico;Heinrich wölfflin;Austral;Español;448;Tapa blanda;;9788467037845;2023-08-13
+3400801;Desarrollo de la Motricidad en Educación Infantil;40160;55780;Libro físico;Juan martín latorre román, pedro ángel; lópez sánchez;Grupo editorial universitario;Español;100;Tapa blanda;8484918947;9788484918943;2023-08-13
+3738566;caracterizacion/ makeup for cinema and theater;87410;121400;Libro físico;Emilio ferreiros;Videocinco;;320;;8496699048;9788496699045;2023-08-13
+53581803;A Fuego Lento;16150;23070;Libro físico;Paula hawkins;Planeta;Español;480;Tapa blanda;9789584295446;9789584295446;2023-08-13
+41799044;Tecnologia y Narrativa Audiovisual;70160;97440;Libro físico;Javier sierra sanchez,francisco garcia garcia;Fragua;Español;902;Tapa blanda;8470746278;9788470746277;2023-08-13
+53264458;Freakshow: Cinco Historias de Circo.;11900;14000;Libro físico;Álvaro matus;Arcano iv;Español;152;Tapa blanda;9789568849344;9789568849344;2023-08-13
+53046489;Los Archivos de Star Wars. 1977-1983; 40Th Anniversary e Dition;29580;34800;Libro físico;Duncan, paul;Taschen;Español;512;Tapa dura;9783836581158;9783836581158;2023-08-13
+47881381;La Arquitectura de la Felicidad;35910;49870;Libro físico;Alain de botton;Lumen;Español;288;Tapa blanda;;9788426404480;2023-08-13
+2476001;Christine;15810;22590;Libro físico;Stephen king;Debolsillo;Español;592;Tapa blanda;9788497594370;9788497594370;2023-08-13
+2846147;Sobre la Fotografia;13520;15900;Libro físico;Walter benjamin;Pre-textos;Español;152;Tapa blanda;8481916374;9788481916379;2023-08-13
+4840284;La Cara Oculta del Cine;15300;18000;Libro físico;Gastón soublette;Ebooks patagonia;Español;224;Tapa blanda;;9789561412224;2023-08-13
+6155349;Metal Extremo. 30 Años de Oscuridad (1981-2011);42360;58830;Libro físico;Salva rubio;Milenio publicaciones s.l.;Español;626;Tapa blanda;8497434633;9788497434638;2023-08-13
+52076982;Moda. Historia y Estilos;42470;58990;Libro físico;varios autores;Dk;Español;480;Tapa dura;;9780241420560;2023-08-13
+55034316;Tito Vásquez. Obra Fotográfica (1940-1970);22950;27000;Libro físico;Vásquez,  tito;Servicio nacional del patrimonio cultural;Español;195;Tapa dura;;9789562445689;2023-08-13
+52172726;One Piece Color Walk Compendium: Water Seven to Paramount war (libro en Inglés);45910;63770;Libro físico;Eiichiro oda;Viz media;Inglés;312;Tapa dura;;9781421598512;2023-08-13
+54428741;El Paisaje del País de las Cenizas;11050;13000;Libro físico;Juza unno;Abducción editorial;Español;166;Tapa blanda;;9789569673252;2023-08-13
+48946430;La Sintaxis de la Imagen. Introducción al Alfabeto Visual;35550;49370;Libro físico;Donis a. dondis;Gustavo gili;Español;240;Tapa blanda;;9788425229299;2023-08-13
+49101776;El Avaro;5940;6990;Libro físico;Moliere;Mestas ediciones;Español;128;Tapa blanda;9788416775897;9788416775897;2023-08-13
+3037145;El Ruido Eterno;35280;49000;Libro físico;Alex ross;Seix barral;Español;800;Tapa blanda;8432209139;9788432209130;2023-08-13
+54211790;Sofia Coppola: Forever Young;53220;73910;Libro físico;Hannah strong;Harry n. abrams;Inglés;288;Tapa dura;;9781419755521;2023-08-13
+50910919;Bowie. Una biografía;12600;18000;Libro físico;María hesse;Lumen;Español;279;Tapa blanda;;9786073173209;2023-08-13
+53106913;El Sonido de la Cocina;3000;15000;Libro físico;Jeffry bastias melendez,dorje tamang;Trayecto comunicaciones;Español;250;;9789566083191;9789566083191;2023-08-13
+29346121;Arte de Proyectar en Arquitectura;75140;88400;Libro físico;Ernst neufert;Gustavo gili;Español;568;Tapa blanda;9788425224744;9788425224744;2023-08-13
+1034196;Poemas Para Combatir la Calvicie;27530;38230;Libro físico;Nicanor parra;Fondo de cultura economica;Español;387;Tapa blanda;9567083304;9789567083305;2023-08-13
+52088601;Tony Takitani;19980;23500;Libro físico;Haruki murakami;Tusquets;Español;80;Tapa dura;9788490667613;9788490667613;2023-08-13
+42881175;Monet o el Triunfo del Impresionismo;34060;47310;Libro físico;Daniel wildenstein;Taschen;Español;488;Tapa dura;3836550997;9783836550994;2023-08-13
+54124725;Condorito Presenta: Yayita;3740;4990;Libro físico;World editor chile;Editorial planeta chilena s.a.;Español;64;Tapa blanda;9789569994746;9789569994746;2023-08-13
+46791772;Arquitectura. Forma, Espacio y Orden;54990;76380;Libro físico;Francis d.k. ching;Gustavo gili;Español;446;Tapa blanda;9788425228698;9788425228698;2023-08-13
+53405267;Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value (libro en Inglés);28330;39350;Libro físico;Teresa torres;Product talk llc;Inglés;244;Tapa blanda;;9781736633304;2023-08-13
+51803508;Sketching From the Imagination: Creatures & Monsters (libro en Inglés);36000;50000;Libro físico;Publishing;3dtotal publishing;Inglés;320;Tapa blanda;;9781909414877;2023-08-13
+4840054;Diseño de Estructuras de Contención;21930;30460;Libro físico;Pedro jose olmos martinez;Ediciones universidad de valladolid;Español;244;Tapa blanda;;9788484486558;2023-08-13
+41493637;Pensar la Arquitectura;42960;59670;Libro físico;Peter zumthor;Gustavo gili;Español;112;Tapa dura;8425227305;9788425227301;2023-08-13
+1556645;The Illusion of Life: Disney Animation (libro en Inglés);58310;80990;Libro físico;Ollie johnston;Disney editions;Inglés;576;Tapa dura;0786860707;9780786860708;2023-08-13
+54124726;Condoricosas;4240;4990;Libro físico;Pepo;Planeta comics chile;Español;64;Tapa blanda;;9789569994753;2023-08-13
+53958712;Autorretratos: Conversaciones con Luis Poirot;17000;20000;Libro físico;Francisco mouat;Hueders;Español;248;Tapa blanda;;9789563652321;2023-08-13
+51479459;Obra de Arte en la Epoca de su Reproductibilidad Tecnica;16190;29440;Libro físico;Walter benjamin;Godot;Español;214;Tapa blanda;;9789874086662;2023-08-13
+54955821;Volver al futuro;13600;16000;Libro físico;Antonio urrutia luxoro;Oxímoron;Español;154;Tapa blanda;;9789569498527;2023-08-13
+48062747;Tu Mundo en una Servilleta: Resolver Problemas y Vender Ideas Mediante Dibujos;29150;40480;Libro físico;Dan roam;Distribuciones agapea - libros urgentes;Español;304;Tapa blanda;;9788498754445;2023-08-13
+48609411;Busca El Tesoro  ( En Tus Bolsillos );11820;13900;Libro físico;Smith keri;Paidos;;;Tapa blanda;;9789501295993;2023-08-13
+14790583;Expresiones de la Locura: El Arte de los Enfermos Mentales;47830;66430;Libro físico;Hans prinzhorn;Catedra;Español;400;Tapa dura;9788437629803;9788437629803;2023-08-13
+48429944;The Politics of Design: A (Not So) Global Manual for Visual Communication;21410;29730;Libro físico;Ruben pater;Bis publishers;;;Tapa blanda;;9789063694227;2023-08-13
+51938633;Mujeres, Casas y Ciudades;31970;45670;Libro físico;Zaida mux martnez;Dpr-barcelona;Español;352;;;9788494938849;2023-08-13
+53849129;Las Recetas de Navidad de Sandra Plevisani;12030;17190;Libro físico;Sandra plevisani;Planeta;Español;200;Tapa blanda;9786123197100;9786123197100;2023-08-13
+4691359;Los Cuatro Amores;17790;24710;Libro físico;C. s. lewis;Harperone;Español;160;Tapa blanda;;9780061140051;2023-08-13
+47866510;El Dragón Blanco y Otros Personajes Olvidados;10430;13900;Libro físico;Adolfo cordova;Fondo de cultura economica;Español;128;Tapa dura;;9786071642479;2023-08-13
+1644622;The art of Spirited Away (libro en Inglés);38740;53810;Libro físico;Hayao miyazaki;Viz media;Inglés;240;Tapa dura;1569317771;9781569317778;2023-08-13
+47022198;Porsche 911: 50 Years (libro en Inglés);60180;83580;Libro físico;Randy leffingwell;Motorbooks international;Inglés;256;Tapa dura;;9780760344019;2023-08-13
+52010608;Acuarela Botánica. Dibuja y Pinta Flores y Plantas;29890;41520;Libro físico;Harriet de winton;Hoaki;Español;128;Tapa blanda;9788417656133;9788417656133;2023-08-13
+52155023;El Japon de Hokusai;25190;34990;Libro físico;Suso mourelo;Alfaomega - quaterni;Español;192;Tapa blanda;;9788412044621;2023-08-13
+53282149;Manual de Diseño Básico Para el Taller de Arquitectura;10200;12000;Libro físico;Sebastián gray avins;Ediciones uc;Español;116;Tapa blanda;9789561427747;9789561427747;2023-08-13
+2902832;El Bailarín Y La Danza : Conversaciones De Merce Cunningham Con Jacqueline Lesschaeve;9100;30320;Libro físico;Jacqueline lesschaeve,merce cunningham;Global rhythm press;Español;272;Tapa blanda;8496879364;9788496879362;2023-08-13
+1685651;The Secret History (libro en Inglés);23780;33030;Libro físico;Donna tartt;Vintage;Inglés;576;Tapa blanda;9781400031702;9781400031702;2023-08-13
+51194417;Bauhaus;34060;47310;Libro físico;Magdalena droste;Taschen;Español;552;Tapa dura;9783836565523;9783836565523;2023-08-13
+2517808;Poetica Musical;21930;30460;Libro físico;Igor stravinski;El acantilado;Español;128;Tapa blanda;849648937x;9788496489370;2023-08-13
+7110871;Madre, Hermano, Amante;23980;33310;Libro físico;Jarvis cocker;Literatura random house;Español;320;Tapa dura;8439725795;9788439725794;2023-08-13
+5081095;Estética de lo Performativo;31140;43250;Libro físico;Erika fischer-lichte;Abada editores;Español;432;Tapa blanda;8415289189;9788415289180;2023-08-13
+53943438;Lacrimae Rerum;11200;16000;Libro físico;Slavoj zizek;Debate;Español;304;Tapa blanda;;9786073811446;2023-08-13
+33687424;Abstraccion y Naturaleza;5940;9900;Libro físico;Wilhelm worringer;Fondo de cultura económica;Español;245;Tapa blanda;6071614171;9786071614179;2023-08-13
+53071301;Satoshi Kon. La Mirada de un Autor;37860;52590;Libro físico;Alvaro arbones;Heroes de papel;Español;224;Tapa dura;;9788417649425;2023-08-13
+51533263;Decorar con Plantas;20660;28690;Libro físico;Francesc zamora;Librero;Español;333;Libro de cartón;;9789463591539;2023-08-13
+53146515;Spy x Family 4;10270;18670;Libro físico;Tatsuya endo;Ivrea;Español;200;Tapa blanda;9788418562884;9788418562884;2023-08-13
+53182495;Si Muere Duchamp;8500;10000;Libro físico;Paula arrieta gutiérrez;Tiempo robado;Español;116;Tapa blanda;9789569364280;9789569364280;2023-08-13
+49882725;Depeche Mode, Musica Para las Masas;17000;20000;Libro físico;Jose bellas;Planeta;Español;224;Tapa blanda;;9789504962113;2023-08-13
+50150305;Street Fighter;54750;76040;Libro físico;Steve hendershot;Minotauro;Español;304;Tapa dura;;9788445005170;2023-08-13
+53375689;Solo Leveling 1;25400;35280;Libro físico;Dubu (redice studio);Norma editorial, s.a.;Español;320;Tapa blanda;9788467945850;9788467945850;2023-08-13
+6153695;Nocturno: Un Viaje en Busca de la luz de la Luna (Ático de los Libros);34490;47900;Libro físico;James attlee;Ático de los libros;Español;528;Tapa blanda;8493859516;9788493859510;2023-08-13
+53896574;All you Need to Know About the Music Business: 10Th Edition (libro en Inglés);41180;57200;Libro físico;Donald s. passman;Simon & schuster;Inglés;528;Tapa dura;;9781501122187;2023-08-13
+50177833;Qué es Dadá?;3760;9400;Libro físico;Theo van doesburg;Casimiro libros;Español;88;Tapa blanda;;9788416868414;2023-08-13
+53698122;La belleza y el terror;19180;27400;Libro físico;Catherine fletcher;Taurus;Español;597;Tapa blanda;9789585165120;9789585165120;2023-08-13
+53139699;Hablan los Muros;9350;11000;Libro físico;Raul molina otarola;Lom ediciones s.a.;Español;160;Tapa blanda;9789560013705;9789560013705;2023-08-13
+50167159;Soy Ozzy: Las Memorias de Ozzy Osbourne;22020;25900;Libro físico;Ozzy osbourne; chris ayres;Es pop ediciones;Español;408;Tapa blanda;;9788494458781;2023-08-13
+52993772;Música Sólo Música;17840;25480;Libro físico;Haruki murakami;Tusquets;Español;336;Tapa blanda;9789584289872;9789584289872;2023-08-13
+51670805;Storytelling Como Estrategia de Comunicación: Herramientas Narrativas Para Comunicadores, Creativos y Emprendedores;32960;45780;Libro físico;Guillaume lamarre;Gustavo gili;Español;174;Tapa blanda;;9788425232046;2023-08-13
+47828290;Las Piedras de Venecia y Otros Ensayos Sobre Arte;30510;42370;Libro físico;John ruskin;Biblok;Español;407;Tapa blanda;;9788494513763;2023-08-13
+48198812;Los Beatles - Desde el Comienzo (1962-1966). Tomo 1;17580;31960;Libro físico;Sergio marchi;Planeta;Español;376;Tapa blanda;;9789504957539;2023-08-13
+3037105;La Filosofía de House: Todos Mienten (Interes General;21100;29310;Libro físico;Henry jacoby;Selector, s.a. de c.v.;Español;250;Tapa blanda;607453022x;9786074530223;2023-08-13
+30944206;Mötley Crüe, los Trapos Sucios: Confesiones del Grupo de Rock más Infame del Mundo;25930;30500;Libro físico;Tommy lee,mick mars;Es pop ediciones;Español;496;Tapa dura;8494029851;9788494029851;2023-08-13
+52139349;Lili y Teo. La magia de la amistad;9100;13000;Libro físico;Marie kondo;Beascoa;Español;48;Tapa dura;9788448854591;9788448854591;2023-08-13
+3470709;La Cámara Lúcida: Nota Sobre la Fotografía;17000;20000;Libro físico;Roland barthes;Paidos;Español;144;Tapa blanda;8449322936;9788449322938;2023-08-13
+46761642;Vinilo. 363 Caratulas;11900;14000;Libro físico;Diaz, álvaro,rivadeneira, piedad;Hueders;Español;440;Tapa blanda;;9789568935474;2023-08-13
+46414241;Wabi-Sabi para artistas, dise?adores, poetas y fil?sofos;21430;29770;Libro físico;Leonard koren;Sd edicions;Español;96;Tapa blanda;;9788494307362;2023-08-13
+53620723;CARAVAGGIO OBRA COMPLETA 40TH ED;29580;34800;Libro físico;Sebastian schütze;Taschen;Español;512;Tapa dura;;9783836587945;2023-08-13
+2510500;Ningun Lugar Adonde ir;23270;42310;Libro físico;Jonas mekas;Caja negra;Español;440;Tapa blanda;9872249288;9789872249281;2023-08-13
+3982258;Mendelssohn: Songs Without Words for the Piano (Schirmer's Library of Musical Classics Vol. 58) [Soft Cover ] (libro en Inglés);17890;24850;Libro físico;Felix mendelssohn;Hal leonard pub co;Inglés;152;Tapa blanda;0793525969;9780793525966;2023-08-13
+1764479;Scar Tissue: The Autobiography (libro en Inglés);22980;31910;Libro físico;Anthony kiedis;Hachette books;Inglés;480;Tapa blanda;1401307450;9781401307455;2023-08-13
+4223993;Anatomía del Guión;42930;59620;Libro físico;John truby;Alba editorial;Español;520;Tapa blanda;8484284433;9788484284437;2023-08-13
+4595604;El Sonido de los Beatles;31970;45670;Libro físico;Geoff emerick;Indicios;Español;416;Tapa blanda;9788493795443;9788493795443;2023-08-13
+51970363;Yo;29270;41820;Libro físico;Elton john;Reservoir books;Español;448;Tapa blanda;;9788417511982;2023-08-13
+54371270;Historias Paranormales y Otros Sucesos Extraños ii;12740;14990;Libro físico;Agustín oyarzún velásquez;Trayecto comunicaciones;Español;236;Tapa blanda;9789564061214;9789564061214;2023-08-13
+46879983;Fundamentos de ingeniería estructural para estudiantes de arquitectura;19380;22800;Libro físico;Pedro hidalgo o.;Ediciones uc;Español;568;Tapa blanda;9789561416796;9789561416796;2023-08-13
+10876851;La Ciudad en la Historia: Sus Orígenes, Transformaciones y Perspectivas;52620;61900;Libro físico;Lewis mumford;Pepitas de calabaza;Español;1168;Tapa dura;8493943789;9788493943783;2023-08-13
+47782907;Bob Dylan;14700;21000;Libro físico;Bob dylan; saieh izzo escala;Reservoir books;Español;200;Tapa blanda;;9789569659287;2023-08-13
+4578985;El Camino del Artista - Julia Cameron - Libro Físico - Cameron, julia - Libro Físico;23720;32950;Libro físico;Julia cameron;Aguilar;Español;320;Tapa blanda;9788403102057;9788403102057;2023-08-13
+49179868;Tu Cerebro y la Musica;13520;15900;Libro físico;Daniel j. levitin;Rba bolsillo;Español;352;Tapa blanda;;9788490569467;2023-08-13
+49146464;Viaje de la Tierra a Marte por Andrés Magre;7650;9000;Libro físico;Hasson camhi, moisés alberto;Nautacolecciones editores ltda.;Español;60;Tapa dura;;9789569541049;2023-08-13
+3316515;Los Ojos del Dragón;16680;23160;Libro físico;Stephen king;Debolsillo;Español;400;Tapa blanda;8497930193;9788497930192;2023-08-13
+1026012;Gran Enciclopedia del Blues, la: Los Grupos, los Músicos, las Voces, los Estilos y la Evolución del Blues Desde sus Orígenes Hasta la Actualidad. (ma non Troppomusica);44750;62150;Libro físico;Gérard herzhaft;Ma non troppo;Español;448;Tapa blanda;8495601826;9788495601827;2023-08-13
+52031598;Signos y Símbolos;30820;42800;Libro físico;Peter handke;Dk publishing (dorling kindersley);Español;352;Tapa dura;;9781465497680;2023-08-13
+52971681;Tarot of the Divine: A Deck and Guid Inspired by Deities, Folklore, and Fairy Tales From Around the World: Tarot Cards (Clarkson Potter);25520;35450;Libro físico;Yoshi yoshitani;Clarkson potter publishers;Inglés;78;Cards;;9780593135143;2023-08-13
+53619080;Curso de Escultura Digital con Zbrush;44230;61430;Libro físico;Carlos sastre antoranz; paloma alperi fernandez;Anaya multimedia;Español;192;Tapa blanda;;9788441543904;2023-08-13
+2518065;Sueño de Polifilo;53810;74740;Libro físico;Francesco colonna;Acantilado;Español;768;Tapa blanda;8495359057;9788495359056;2023-08-13
+54365518;La Vaca que Cantó una Canción Sobre el Futuro;8500;10000;Libro físico;Francisca alegría, manuela infante y fernanda urrejola;Ediciones uc;Español;158;Cosido hot melt;9789561430082;9789561430082;2023-08-13
+52991987;Acuarelas en 4 Pasos: 150 Proyectos Para Pintar;13590;16800;Libro físico;Marina bakasova;Librero;;;Tapa dura;;9789463594967;2023-08-13
+53701013;Freddie Mercury;17930;25610;Libro físico;Alfonso casas;Random comics;Español;144;Tapa dura;;9788418040191;2023-08-13
+1029740;Punto y Linea Sobre el Plano;16920;19900;Libro físico;Vasili kandinsky;Paidos;Español;160;Tapa blanda;8449303141;9788449303142;2023-08-13
+52162486;Fanbook la Casa de las Flores;15730;19900;Libro físico;Netflix;Libros cupula;Español;240;Tapa blanda;;9789874742315;2023-08-13
+4856946;Miniaturas de Pomaire;1960;2300;Libro físico;Marcela avalos; massiel vergara;Ocho libros;Español;136;Tapa blanda;9789563350937;9789563350937;2023-08-13
+53623034;Los Muertos y el Periodista;19570;;Libro físico;Oscar martinez;Anagrama;Español;224;Tapa blanda;;9788433926265;2023-08-13
+47864253;Lemmy (2ª ed. Ampliada);32250;44790;Libro físico;Ian kilmister; janiss garza;Es pop ediciones;Español;320;Tapa blanda;;9788494458743;2023-08-13
+47212873;Visual Merchandising: Escaparates e Interiores Comerciales;62680;89540;Libro físico;Tony morgan;Gustavo gili;Español;224;Tapa blanda;9788425228681;9788425228681;2023-08-13
+2837798;burning up. de gira con los jonas brothers;19810;27520;Libro físico;;Cupula;Español;;;8448048474;9788448048471;2023-08-13
+53374625;Candy Candy mas Bonita Cuando Sonrie;40440;56160;Libro físico;Array;Diabolo ediciones;Español;290;Tapa dura;;9788418320392;2023-08-13
+47295305;Van Gogh;17680;20800;Libro físico;Ingo f. walther;Taschen;Español;96;Tapa dura;;9783836540711;2023-08-13
+54891627;Al Estilo Pánico;16150;19000;Libro físico;Mgc;Clubdefans spa;Español;128;Tapa blanda;;9789560992604;2023-08-13
+52115549;Amores;34720;48220;Libro físico;Alfonso casas;Lunwerg;Español;280;Tapa dura;;9788417858438;2023-08-13
+4856946;Miniaturas de Pomaire;1960;2300;Libro físico;Marcela avalos; massiel vergara;Ocho libros;Español;136;Tapa blanda;9789563350937;9789563350937;2023-08-13
+53623034;Los Muertos y el Periodista;19570;;Libro físico;Oscar martinez;Anagrama;Español;224;Tapa blanda;;9788433926265;2023-08-13
+47864253;Lemmy (2ª ed. Ampliada);32250;44790;Libro físico;Ian kilmister; janiss garza;Es pop ediciones;Español;320;Tapa blanda;;9788494458743;2023-08-13
+47212873;Visual Merchandising: Escaparates e Interiores Comerciales;62680;89540;Libro físico;Tony morgan;Gustavo gili;Español;224;Tapa blanda;9788425228681;9788425228681;2023-08-13
+2837798;burning up. de gira con los jonas brothers;19810;27520;Libro físico;;Cupula;Español;;;8448048474;9788448048471;2023-08-13
+53374625;Candy Candy mas Bonita Cuando Sonrie;40440;56160;Libro físico;Array;Diabolo ediciones;Español;290;Tapa dura;;9788418320392;2023-08-13
+47295305;Van Gogh;17680;20800;Libro físico;Ingo f. walther;Taschen;Español;96;Tapa dura;;9783836540711;2023-08-13
+54891627;Al Estilo Pánico;16150;19000;Libro físico;Mgc;Clubdefans spa;Español;128;Tapa blanda;;9789560992604;2023-08-13
+52115549;Amores;34720;48220;Libro físico;Alfonso casas;Lunwerg;Español;280;Tapa dura;;9788417858438;2023-08-13
+47158560;Así es la Dictadura (Libros Para Mañana) - 9788494362514;17600;20700;Libro físico;Mikel casal,equipo plantel;Media vaca;Español;48;Tapa dura;;9788494362514;2023-08-13
+52394571;Lucho Gatica;12750;15000;Libro físico;Carlos contreras,marisol garcia;Hueders;Español;148;Tapa dura;;9789563651409;2023-08-13
+52995494;La Mujer Temblorosa o la Historia de mis Nervios;15220;17900;Libro físico;Siri hustvedt;Seix barral;Español;240;Tapa blanda;9789569949753;9789569949753;2023-08-13
+53849087;There and Back: Photographs From the Edge (libro en Inglés);51910;72100;Libro físico;Jimmy chin;Ten speed press;Inglés;320;Tapa dura;;9781984859501;2023-08-13
+29344592;La Fotografía del Siglo xx;23630;27800;Libro físico;Taschen;Taschen;Español;760;Tapa dura;3836541041;9783836541046;2023-08-13
+1797774;Mero Cristianismo;17580;24410;Libro físico;C. s. lewis;Harperone;Español;240;Tapa blanda;0061140015;9780061140013;2023-08-13
+53209558;365 Dias de Creatividad;29150;40480;Libro físico;Lorna scobie;Timun mas;Español;352;Flexibound;;9788448027407;2023-08-13
+46988763;La Salvación de lo Bello;11310;13300;Libro físico;Byung-chul han;Herder;Español;112;Tapa blanda;;9788425437588;2023-08-13
+7661271;Joyeria Vintage;24740;34360;Libro físico;Caroline cox;Parramon;Español;224;Tapa blanda;8434237784;9788434237780;2023-08-13
+39023779;Trash Metal. Del Sonido al Contenido;10100;11880;Libro físico;Maximiliano sánchez;Ril editores;Español;170;Tapa blanda;;9789560100597;2023-08-13
+51475050;Arte: La Historia Visual Definitiva;50240;69780;Libro físico;Varios autores;Dk;Español;612;Tapa dura;;9780241389980;2023-08-13
+49584119;Arte y Oficio del Actor: La Técnica Meisner en el Aula;34300;47640;Libro físico;William esper,damon dimarco;Alba editorial;Español;336;Tapa blanda;;9788490653890;2023-08-13
+50177827;Gustav Klimt;23630;27800;Libro físico;Tobias g. natter;Taschen;Español;512;Tapa dura;9783836562881;9783836562881;2023-08-13
+1029560;La Imagen-Movimiento: Estudios Sobre Cine 1;25500;30000;Libro físico;Gilles deleuze;Paidos;Español;320;Tapa blanda;8475093175;9788475093178;2023-08-13
+54386182;Art of Elemental (libro en Inglés);41590;57760;Libro físico;Chronicle books;Chronicle books;Inglés;176;Tapa dura;;9781797218519;2023-08-13
+54935036;Jardín;10200;12000;Libro físico;Jens andermann;Editorial bifurcaciones;Español;204;Tapa blanda;;9789569501319;2023-08-13
+53572771;Jujutsu Kaisen 10;17500;24300;Libro físico;Gege akutami;Norma editorial, s.a.;Español;188;Tapa blanda;;9788467945911;2023-08-13
+52357219;Como Proyectar Viviendas Energeticamente Eficientes;27030;31800;Libro físico;Tom dollard;Gustavo gili;Español;180;Tapa blanda;9788425231070;9788425231070;2023-08-13
+54226254;Recetas con Memoria - Libro ilustrado de gastronomía Mapuche;11900;14000;Libro físico;Natanael pereira reumay (compilador) francisco muñoz (ilustrador);Editorial novenosur;Español;60;Tapa dura;;9789569424069;2023-08-13
+1036992;Caminos a lo Absoluto. Mondrian, Malévich, Kandinsky, Pollock, Newman, Rothko y Still;9730;13900;Libro físico;John golding;Fondo de cultura economica;Español;237;Tapa blanda;9681671147;9789681671143;2023-08-13
+47245267;Guia de Esmaltes Ceramicos. Recetas;36170;50230;Libro físico;Linda bloomfield;Gustavo gili;Español;144;Tapa blanda;;9788425228803;2023-08-13
+50571769;Useless Magic: Lyrics and Poetry (libro en Inglés);39610;55010;Libro físico;Florence welch;Crown archetype;Inglés;288;Tapa dura;;9780525577157;2023-08-13
+8746672;El Olor a Sangre Humana no se me Quita de los Ojos;13830;16270;Libro físico;Franck maubert;Acantilado;Español;128;Tapa blanda;8415277849;9788415277842;2023-08-13
+52131922;Teoría de los Colores: Las Láminas Comentadas;29240;40610;Libro físico;Johann wolfgang von goethe;Editorial gustavo gili s.l.;Español;92;Tapa dura;;9788425232503;2023-08-13
+50851727;La llama;10450;19000;Libro físico;Leonard cohen;Salamandra;Español;344;Tapa blanda;;9788498389005;2023-08-13
+54216515;Spawn Universo;17430;20500;Libro físico;Todd mcfarlane;Planeta cómic;Español;96;Tapa dura;;9788411120210;2023-08-13
+53169521;Acid for the Children: Memorias;18560;25780;Libro físico;Flea;Planeta pub corp;Español;392;Tapa blanda;;9786070774621;2023-08-13
+53580512;Zander ;7140;11900;Libro físico;Varios autores;Planeta junior;Español;110;Tapa blanda;9789569992841;9789569992841;2023-08-13
+1893126;the real book;46340;64360;Libro físico;Hal leonard corp;Hal leonard publishing corporation;Inglés;464;Tapa blanda;1423424514;9781423424512;2023-08-13
+53697779;Viaje a Través de la Moda: Diseñadores, Iconos y Estilos de los Siglos xx y xxi (Fuera de Colección);40490;56240;Libro físico;Vicente gallart;Alba editorial;Español;240;Tapa dura;;9788490658215;2023-08-13
+2887139;El Anillo del Nibelungo;39130;54350;Libro físico;Richard wagner;Turner;Español;472;Tapa blanda. con solapas;8475068669;9788475068664;2023-08-13
+54392173;Harry la Biografia no Autorizada;14460;20660;Libro físico;Danny white;Penguin random house;Español;240;Tapa blanda;9789588763781;9789588763781;2023-08-13
+47272496;El Elogio de la Sombra;29920;41550;Libro físico;Junichiro tanizaki;Satori ediciones;Español;128;Tapa dura;;9788494468537;2023-08-13
+46445731;Si Beethoven Pudiera Escucharme;28490;39570;Libro físico;Ramon gener i sala;Now books;Español;70;Tapa blanda;9788494217135;9788494217135;2023-08-13
+47805372;Morrisey Autobiografia;15270;27770;Libro físico;Steven patrick morrissey;Malpaso ediciones;Español;480;Tapa dura;;9788416420605;2023-08-13
+52837076;La depresión (no) existe;14630;20900;Libro físico;Juan carlos rincón escalante, cecilia ramos valencia;Vergara;Español;154;Tapa blanda;9789585266322;9789585266322;2023-08-13
+54935035;Suelo;10200;12000;Libro físico;Francisco díaz;Editorial bifurcaciones;Español;175;Tapa blanda;;9789569501296;2023-08-13
+53111133;The Porsche 911 Book;36010;50020;Libro físico;René staud;Te neues publishing company;Francés;192;Tapa dura;;9783961713097;2023-08-13
+52083614;Psicología de la Música;23330;32400;Libro físico;Daniele sch&ouml;n; lilach akiva-kabiri; tomaso vecchi;Alianza editorial;Español;200;Tapa blanda;;9788491817178;2023-08-13
+48273930;Ojo del Fotografo (2017);29580;34800;Libro físico;Michael freeman;Blume;Español;192;Tapa blanda;9788416965328;9788416965328;2023-08-13
+1523481;Dore's Illustrations for Dante's "Divine Comedy" (Dover Fine Art, History of Art) (libro en Inglés);23850;33130;Libro físico;Gustave doré;Dover publications;Inglés;144;Tapa blanda;048623231x;9780486232317;2023-08-13
+46706956;Unir los 1000 Puntos;23070;32040;Libro físico;Thomas pavitte;Blume;Español;48;Tapa blanda;;9788498018349;2023-08-13
+51922480;30 Años De La Industria Musical Chilena (1988 / 2018). Reflexiones Y Testimonios;13600;16000;Libro físico;David ponce;Hueders;Español;180;Tapa blanda;;9789563651263;2023-08-13
+48176864;Roba Como un Artista. El Diario;26770;37180;Libro físico;Austin kleon;Gustavo gili;Español;224;Tapa blanda;;9788425230202;2023-08-13
+52076106;El Vuelo De La Luciernaga;2400;12000;Libro físico;Cristóbal torres, vicente wilson;Trayecto comunicaciones;Español;;;;9789569641442;2023-08-13
+51277420;DISEÑO Y CONSTRUCCIÓN DE ESTRUCTURAS SISMORRESISTENTES DE ALBAÑILERÍA;19520;27880;Libro físico;Ángel san bartolomé;Fondo editorial pucp;Español;344;Tapa blanda;9786123173661;9786123173661;2023-08-13
+48052027;Biblioteca Studio Ghibli: El Viaje de Chihiro;42150;;Libro físico;Marta garcía villar;Héroes de papel;Español;288;Tapa dura;;9788494534942;2023-08-13
+50026761;Principe, el (la Otra h - Manga);9520;11200;Libro físico;Nicolas maquiavelo;La otra h;Español;200;Tapa blanda;;9788416540754;2023-08-13
+47632159;El Amor te Hará Inmortal: Música, Memoria y Vida (Obras Diversas);29920;41550;Libro físico;Ramon gener;Plaza & janes;Español;288;Tapa blanda;;9788401017865;2023-08-13
+52989000;El Almanaque de mi Padre;27020;31790;Libro físico;Jiro taniguchi;Planeta de agostini;Español;272;Tapa dura;9788413414935;9788413414935;2023-08-13
+51793731;Donde Esta Elvis?;5590;7990;Libro físico;Latinbooks;Latinbooks;Español;24;Tapa blanda;;9789974894051;2023-08-13
+47638748;Fito Paez Diario de Viaje (Algunas Confesiones y Anexos);18620;21900;Libro físico;Paez, fito;Planeta;Español;248;Tapa blanda;;9789504955115;2023-08-13
+50908344;The Legend of Zelda. Breath of the Wild Creating: Creating a Champion (libro en Inglés);51910;72100;Libro físico;nintendo;Dark horse books;Inglés;424;Tapa dura;;9781506710105;2023-08-13
+54418467;Harry Potter: Floral Fantasy 12-Month Undated Planner: (Harry Potter School Planner School, Harry Potter Gift, Harry Potter Stationery, Undated Planner) (libro en Inglés);33430;46430;Libro físico;Insights;Insights;Inglés;148;Tapa dura;;9781647225605;2023-08-13
+25964242;Color Theory: An Essential Guide to Color--From Basic Principles to Practical Applications (Artist&#39; S Library) (libro en Inglés);13650;18960;Libro físico;Patti mollica;Walter foster publishing;Inglés;64;Tapa blanda;1600583024;9781600583025;2023-08-13
+1902224;The art of Fullmetal Alchemist 2 (libro en Inglés);25950;36040;Libro físico;Hiromu arakawa;Viz media;Inglés;112;Tapa dura;1421514087;9781421514086;2023-08-13
+54443584;Clásicos Selectos de c. S. Lewis: Antología de 8 de los Libros de c. S. Lewis:;22940;26990;Libro físico;C. s. lewis;Grupo nelson;Español;912;Tapa blanda;9780829737219;9780829737219;2023-08-13
+53971061;La compañera (La Volátil);29880;41500;Libro físico;Agustina guerrero;Lumen press;Español;232;Tapa dura;9788426411013;9788426411013;2023-08-13
+1708259;Tom Ford (libro en Inglés);128640;178670;Libro físico;Tom ford;Rizzoli international publications;Inglés;416;Tapa dura;0847826694;9780847826698;2023-08-13
+51479449;Beatles en el Final (1967-1970), los;16150;19000;Libro físico;Varios autores;Planeta;Español;308;Tapa blanda;;9789504966067;2023-08-13
+52456026;Botanicum Coloring Book: Special Edition (libro en Inglés);24920;34610;Libro físico;Maria trolle;Gibbs smith;Inglés;104;Tapa dura;;9781423654018;2023-08-13
+46302286;Astrofotografía;47380;65800;Libro físico;Thierry legault;Akal;Español;184;Tapa blanda;;9788446037217;2023-08-13
+51108193;Legend of Zelda, The: Breath of the Wild - Creating a Champion Hero's Edition (libro en Inglés);148900;206800;Libro físico;nintendo;Dark horse books;Inglés;424;Tapa dura;;9781506710112;2023-08-13
+47417164;The Science of Interstellar (libro en Inglés);35020;48640;Libro físico;Kip thorne;W. w. norton & company;Inglés;336;Tapa blanda;;9780393351378;2023-08-13
+50036833;Karl Marx;45120;64450;Libro físico;Gareth stedman-jones;Taurus;Español;888;Tapa dura;9788430618644;9788430618644;2023-08-13
+53390612;Loops 1: Una Historia de la Música Electrónica en el Siglo xx;36780;51080;Libro físico;Javier blánquez gómez; omar morera;Reservoir books;Español;736;Tapa blanda;;9788418052644;2023-08-13
+53606023;The Eiffel Tower (Jumbo) (libro en Plurilingue);42330;49800;Libro físico;Bertrand lemoine;Taschen;Inglés;176;Tapa dura;;9783836584418;2023-08-13
+51960342;Evangelion Illustrations 2007-2017 (Neon Genesis Evangelion) (libro en Inglés);41610;57790;Libro físico;khara;Viz media;Inglés;176;Tapa blanda;;9781974707034;2023-08-13
+53954792;Rebalsar la Piscina Mental. Lecturas en Primera Persona;12750;15000;Libro físico;Alberto fuguet;Ediciones universidad diego portales;Español;208;Tapa blanda;9789563145106;9789563145106;2023-08-13
+54977342;Brujimarket;11040;12990;Libro físico;Bambiii;Editorial arcano iv limitada;Español;136;Tapa blanda;;9789560986115;2023-08-13
+54242407;La Cámara Lúcida;17920;24890;Libro físico;Roland barthes;Paidos;Español;144;Tapa blanda;;9786075693149;2023-08-13
+50028932;J. K. Rowling's Wizarding World: Las Artes Oscuras. Un Álbum de las Películas;31120;43220;Libro físico;Jody revenson;Norma ediciones;Español;48;Tapa dura;;9788467930429;2023-08-13
+50652687;Manual del Fotógrafo;24480;28800;Libro físico;Michael freeman;Blume;Español;240;Tapa blanda;;9788417254803;2023-08-13
+48487524;Teoría Musical Para Dummies;29150;40480;Libro físico;Michael pilhofer,holly day;Para dummies;Español;376;Tapa blanda;;9788432903960;2023-08-13
+36597094;Los Jaivas Medio Siglo;20430;24040;Libro físico;Rene olivares;Ocho libros editores ltda;Español;212;Tapa blanda;9563351835;9789563351835;2023-08-13
+46328419;Diccionario Manual Ilustrado de Arquitectura;11730;13800;Libro físico;Betty beatty,dora ware;Gustavo gili;Español;203;Tapa blanda;8425223865;9788425223860;2023-08-13
+54232089;Ánimas de día Claro;6080;7150;Libro físico;Sieveking campano, alejandro;Universitaria s.a.;Español;150;Tapa blanda;;9789561129474;2023-08-13
+1693394;Phillips, j: Surf, Skate & Rock art of jim Phillips;36140;50200;Libro físico;Jim phillips;Schiffer publishing;Inglés;208;Tapa blanda;0764319272;9780764319273;2023-08-13
+52455460;Mis Primeros Animales de la Jungla, Encuentra, Siente y Aprende;8260;11800;Libro físico;Liz forester;Contrapunto;Español;10;Tapa dura;;9789562572064;2023-08-13
+53167879;Cocina de Autor;8500;10000;Libro físico;Gonzalo garay;Trayecto comunicaciones;Español;100;Tapa blanda;9789566083290;9789566083290;2023-08-13
+53105501;Rubato Procesos Musicales y Playlist Personal;13520;15900;Libro físico;varios autores;La pollera ediciones;Español;391;Tapa blanda;9789566087212;9789566087212;2023-08-13
+52902713;Tecnicas de Dibujo Manga 2: Canones y Proporciones;26610;36960;Libro físico;Hikaru hayashi;Norma editorial, s.a.;Español;184;Tapa blanda;;9788467941944;2023-08-13
+51626705;Técnicas de Animación. Dibujos Animados. Animación 3d y Videojuegos;61600;85550;Libro físico;Williams, richard;Anaya;Español;392;Tapa blanda;;9788441541139;2023-08-13
+48981550;El Arte de Atari;51430;71430;Libro físico;Tim lapetino;Norma editorial, s.a.;Español;352;Tapa dura;;9788467926996;2023-08-13
+34742054;Guia Completa del Taller de Ceramica;58990;81930;Libro físico;Ducan hooson,anthony quinn,;Promopress;Español;320;Tapa dura;8492810858;9788492810857;2023-08-13
+50883843;Después del fin del Arte;29910;42730;Libro físico;Arthur c. danto;Paidos;Español;336;Tapa dura;;9788449335396;2023-08-13
+47446268;John Thompson Curso Moderno Para Piano Vol. 1 Parte 2 (Ed. Español);14590;20260;Libro físico;John thompson;Willis music;Español;78;Tapa blanda;;9781458494290;2023-08-13
+53957044;Mujeres, Arte y Poder y Otros Ensayos;18620;21900;Libro físico;Linda nochlin;Ediciones paidós;Español;256;Tapa blanda. con solapas;9788449339134;9788449339134;2023-08-13
+1094692;La Humanizacion del Espacio Urbano;37970;52730;Libro físico;Jan gehl;Reverte;Español;217;Tapa blanda;8429121099;9788429121094;2023-08-13
+1548224;The art of Japanese Joinery (libro en Inglés);29250;40630;Libro físico;Kiyosi seike;Weatherhill;Inglés;128;Tapa blanda;0834815168;9780834815162;2023-08-13
+1645704;Ghost Rider: Travels on the Healing Road (libro en Inglés);21360;29660;Libro físico;Neil peart;Ecw press;Inglés;462;Tapa blanda;1550225480;9781550225488;2023-08-13
+1584872;The Four Seasons (Dover Miniature Music Scores) (libro en inglés);11640;16160;Libro físico;Antonio vivaldi;Dover publications;Inglés;96;Tapa blanda;048640644x;9780486406442;2023-08-13
+53694044;Louis Wain&#39; S Cats (libro en Inglés);49960;69390;Libro físico;Chris beetles;Canongate books;Inglés;256;Tapa dura;;9781838854706;2023-08-13
+3269900;Atlas Mnemosyne;48280;56800;Libro físico;Aby warburg;Akal;Español;188;Tapa dura;8446028255;9788446028253;2023-08-13
+54200761;Aumenta tu Confianza en la Acuarela;13160;18800;Libro físico;Putt, katie;Contrapunto;Español;96;Tapa blanda;;9789562573658;2023-08-13
+1065632;Santiago que no Dormía (libro en Ruso);10460;12300;Libro físico;Molina la hitte, alfredo;Lom ediciones s.a.;Ruso;85;Tapa blanda o rústica;9562828360;9789562828369;2023-08-13
+54057155;Arta en el Apocalipsis Máximo;25400;35280;Libro físico;Arta game;Montena;Español;160;Tapa dura;;9788419085726;2023-08-13
+52100532;Led Zeppelin: Cuando los Gigantes Caminaban Sobre la Tierra;47580;;Libro físico;Mick wall;Alianza editorial;Español;696;Tapa blanda;;9788491816843;2023-08-13
+52087134;Diario Oscuro;10500;15000;Libro físico;Marcela trujillo;Reservoir books;Español;260;Tapa blanda;9789569659669;9789569659669;2023-08-13
+1655146;ansel adams,the national parks service photographs;18770;26070;Libro físico;Ansel adams;Abbeville press;Inglés;352;Tapa dura;0789207753;9780789207753;2023-08-13
+1549869;magic eye ii,now you see it ... : 3d illusions;19580;27200;Libro físico;Cheri smith;Andrews mcmeel publishing;Inglés;;Tapa dura;0836270096;9780836270099;2023-08-13
+46463431;Bibliotecas: Innovacion y Diseño;17000;56680;Libro físico;Carles broto;Links books;Español;300;Tapa blanda;;9788415492962;2023-08-13
+46879824;Fotografía Macro: Descubre Todos sus Secretos;40080;55660;Libro físico;Fran nieto;Jdej editores;Español;272;Tapa blanda;;9788415131694;2023-08-13
+49333831;Star Wars la Enciclopedia Visual;33170;47390;Libro físico;Adam bray;Dk;Español;199;Tapa dura;;9781465471284;2023-08-13
+52980213;Tinta: Dibujo y Composición Para Narradores Visuales;37050;51460;Libro físico;Marcos mateu-mestre;Anaya multimedia;Español;128;Tapa blanda;;9788441542754;2023-08-13
+50610447;Manual Practico de Iluminacion;14280;16800;Libro físico;Douglas leonard covarrubias;Sin información;Español;134;Tapa blanda;;9789561422711;2023-08-13
+50816997;250 Japanese Knitting Stitches: The Original Pattern Bible by Hitomi Shida (libro en Inglés);26050;36180;Libro físico;Hitomi shida;Tuttle publishing;Inglés;160;Tapa blanda;;9784805314838;2023-08-13
+1748492;The art of Howl's Moving Castle (libro en Inglés);47080;65390;Libro físico;Hayao miyazaki;Viz media;Inglés;256;Tapa dura;1421500493;9781421500492;2023-08-13
+47256713;Laberinto del Alma;35270;48990;Libro físico;Anna llenas;Espasa libros, s.l.u.;Español;128;Tapa dura;;9788467046977;2023-08-13
+54328759;Revelar a Vivian Maier - Ann Marks - Libro Físico;23720;27900;Libro físico;Ann marks;Paidós;Cast;400;Tapa blanda;;9788449339912;2023-08-13
+31412405;Cancionero Ilustrado los Jaivas;13520;15900;Libro físico;Rene olivares;Ocho libros editores;Español;139;Tapa blanda;;9789563351699;2023-08-13
+52900347;Pierre-Joseph Redouté. El Libro de las Flores. 40Th Anniversary Edition;29580;34800;Libro físico;H. walter lack;Taschen;Inglés;512;Tapa dura;9783836566308;9783836566308;2023-08-13
+1240897;Nueva Ilustracion de Moda;11960;16610;Libro físico;Martin dawber;Blume;Español;160;Tapa blanda;849801185x;9788498011852;2023-08-13
+46813742;Basquiat;27640;38390;Libro físico;Leonhard emmerling;Taschen;Español;96;Tapa dura;;9783836559775;2023-08-13
+3126323;The art of how to Train Your Dragon;48130;66850;Libro físico;Tracey miller-zarneke;Newmarket press;Inglés;160;Tapa dura;9781557048639;9781557048639;2023-08-13
+47245269;Modos de ver;28130;39070;Libro físico;John berger;Gustavo gili;Español;168;Tapa blanda;;9788425228926;2023-08-13
+54274984;Britney Spears Oracle: A Deck and Guidebook to be Stronger Than Yesterday (libro en Inglés);22200;30830;Libro físico;Kara nesvig;Rp studio;Inglés;88;Nuevo;;9780762475773;2023-08-13
+54062098;La Espada y la Pared;8500;10000;Libro físico;Cerda vega, maría de los ángeles;Atlántida spa - la piedra redonda ediciones;Español;96;Tapa blanda;9789560967909;9789560967909;2023-08-13
+46782036;Diecisiete Instantes de una Primavera;32090;44570;Libro físico;Iulian semionovich semionov;Hoja de lata;Español;416;Tapa blanda;;9788416537013;2023-08-13
+53318039;Teatro Aplicado en Educación;15300;18000;Libro físico;María verónica garcía-huidobro, luna del canto, ana sedano, compañía la balanza: teatro & educación;Ediciones uc;Español;400;;9789561427945;9789561427945;2023-08-13
+52677469;Que Tu Historia No Dure 24hrs.;2000;10000;Libro físico;Víctor calle;Trayecto comunicaciones;Español;;Tapa blanda;9789569641602;9789569641602;2023-08-13
+53541459;El Bosco. La Obra Completa. 40Th ed;29580;34800;Libro físico;Stefan fischer;Taschen;Español;512;Tapa dura;;9783836587846;2023-08-13
+48459232;The art of Ponyo (Ponyo on the Cliff);41170;57180;Libro físico;Hayao miyazaki;Viz media;Inglés;;Tapa dura;;9781421566023;2023-08-13
+48930489;Inspired: How to Create Tech Products Customers Love (Silicon Valley Product Group) (libro en Inglés);35760;49660;Libro físico;Marty cagan;Wiley;Inglés;368;Tapa dura;;9781119387503;2023-08-13
+54292580;Rakugaki;16100;23000;Libro físico;Yorifuji, bunpei;Blackie books;Español;184;Tapa blanda;9789878453224;9789878453224;2023-08-13
+50709017;Lea Este Libro si Desea Tomar Buenas Fotografias;15640;18400;Libro físico;Henry carroll;Blume;Español;128;Tapa blanda;;9788417492205;2023-08-13
+53147380;Harry Potter: Hufflepuff Constellation Hardcover Ruled Journal (Harry Potter: Constellation) (libro en Inglés);16140;18990;Libro físico;Insight editions;Insight editions;Inglés;192;Tapa dura;;9781647220037;2023-08-13
+1525455;The Complete Woodcuts of Albrecht Dürer (Dover Fine Art, History of Art) (libro en Inglés);35160;48830;Libro físico;Dürer, albrecht ; kurth, w.;Dover publications;Inglés;288;Tapa blanda;0486210979;9780486210971;2023-08-13
+47445540;Bim. Diseño y Gestión de la Construcción;44230;61430;Libro físico;Antonio manuel reyes rodríguez,pablo cordero torres,alonso candelario garrido;Anaya multimedia;Español;384;Tapa blanda;;9788441538177;2023-08-13
+26671712;Romanza sin Palabras. (Edic. Completa). (Piano). (Ei0040);40330;56020;Libro físico;Félix mendelssohn;Boileau;Español;154;Tapa blanda;848020351x;9788480203517;2023-08-13
+31303616;El collage: historia de un desafío;31120;43220;Libro físico;Manuel sánchez oms;Erasmus ediciones;Español;188;Tapa blanda;8415462123;9788415462125;2023-08-13
+38220935;La Magia del Papel;47760;86830;Libro físico;Paul jackson;Promopress;Español;128;Tapa blanda;8415967004;9788415967002;2023-08-13
+52947047;Do What you Want: The Story of bad Religion (libro en Inglés);16730;23240;Libro físico;bad religion;Hachette books;Inglés;336;Tapa dura;;9780306922220;2023-08-13
+53622850;Andrew Martin Interior Design Review (Vol. 25) (libro en Inglés);65290;90680;Libro físico;Andrew martin;Teneues verlag;Inglés;512;Tapa dura;;9783961713691;2023-08-13
+50602213;Paint by Sticker: Cats: Create 12 Stunning Images one Sticker at a Time (libro en Inglés);21410;29730;Libro físico;Workman publishing;Workman publishing;Inglés;56;Tapa blanda;;9781523504480;2023-08-13
+50659455;El Heroe Tragico en el Western;41640;57830;Libro físico;Fran benavente;Athenaica ediciones universitarias;Español;374;Tapa blanda. con solapas;;9788416230839;2023-08-13
+47864647;Filosofia de la Danza;15850;22010;Libro físico;Paul valery;José j. olañeta editor;Español;80;Tapa blanda;;9788497169882;2023-08-13
+53637615;El Arte del Pensamiento Creativo;22780;26800;Libro físico;Rod judkins;Gustavo gili;Español;248;Tapa blanda;;9788425233180;2023-08-13
+3228075;August Sander. Photopoche (Photo Poche (Lunwerg));15600;21670;Libro físico;Photopoche;Lunwerg editores;Español;144;Tapa blanda;9788497854917;9788497854917;2023-08-13
+48036115;Impresionismo;27640;38390;Libro físico;Karin h. grimme;Taschen;Español;96;Tapa dura;;9783836563000;2023-08-13
+54224688;Sueños Ancestrales;11890;13990;Libro físico;Alvarez salinas, alicia;Editora y productora planeta sostenible juan francisco bascuñán muñoz e.i.r.l.;Español;68;Tapa blanda;;9789566050216;2023-08-13
+46982272;Teoría del Acto Icónico;28260;33250;Libro físico;Horst bredekamp;Akal;Español;320;Tapa blanda;;9788446038757;2023-08-13
+51827407;Geddy Lee's big Beautiful Book of Bass (libro en Inglés);96760;134390;Libro físico;Geddy lee;Harper;Inglés;408;Tapa dura;;9780062747839;2023-08-13
+50915615;Señorita Buena Presencia;9800;14000;Libro físico;Sin informacion;Reservoir books;Español;144;Tapa blanda;9789569977527;9789569977527;2023-08-13
+1762519;El Misterio de las Catedrales;17200;23890;Libro físico;Fulcanelli;Debolsillo;Español;208;Tapa blanda;8497595149;9788497595148;2023-08-13
+50147872;La edad de la penumbra;34480;47890;Libro físico;Catherine nixey;Taurus;Español;320;Tapa dura;;9788430619542;2023-08-13
+4207680;Breve Historia de la Música;6230;8900;Libro físico;Norbert dufourq;Distribuciones agapea - libros urgentes;Español;240;Tapa blanda;8437505658;9788437505657;2023-08-13
+4912970;Salva al Gato el Libro Definitivo Para la Creacion de un Guion  (Rustica;31770;45380;Libro físico;Blake snyder;Alba;Español;248;Tapa blanda;9788484285823;9788484285823;2023-08-13
+3244226;CONTRA LA INTERPRETACION;18350;25480;Libro físico;Susan sontag;Debolsillo;Español;400;Libro de bolsillo;8483464209;9788483464205;2023-08-13
+1782197;Teorías del Cine: Una Introducción;40200;55830;Libro físico;Robert stam;Paidos;Español;418;Tapa blanda;8449310636;9788449310638;2023-08-13
+52047114;El Libro de la Música Clásica;23890;34130;Libro físico;Peter handke;Dk publishing (dorling kindersley);Español;352;Tapa dura;;9781465486745;2023-08-13
+50080074;El cartero de Neruda (tapa dura ilustrado);11200;16000;Libro físico;Antonio skármeta;Lumen;Español;176;Tapa dura;;9788426405401;2023-08-13
+52304940;Anatomía Artística 5: Articulaciones y Funciones Musculares;12580;14800;Libro físico;Michel lauricella;Gustavo gili;Español;96;Tapa blanda;9788425232602;9788425232602;2023-08-13
+7856251;One Direction. Atrévete a Soñar;23980;33310;Libro físico;Varios autores;Libros cúpula;Español;288;Tapa dura;;9788448005702;2023-08-13
+54049417;Crochet Cute Dolls With Mix-And-Match Outfits: 66 Easy-To-Follow Amigurumi Patterns (libro en Inglés);24260;33690;Libro físico;Miya kinojo;Tuttle publishing;Inglés;96;Tapa dura;;9780804854511;2023-08-13
+4097248;Diccionario Manual Ilustrado de Arquitectura;11730;13800;Libro físico;Betty beatty,dora ware;Gustavo gili;Español;203;Tapa blanda;8425223865;9788425223860;2023-08-13
+52039497;The art of the Last of us Part 2 (libro en Inglés);51910;72100;Libro físico;Naughty dog;Dark horse books;Inglés;200;Tapa dura;;9781506713762;2023-08-13
+54041331;Atrapa el pez Dorado;26270;47760;Libro físico;Lynch, david;Reservoir books;Español;144;Tapa blanda;;9789873818844;2023-08-13
+54214156;Política y Estética en Víctor Jara;10200;12000;Libro físico;Román, nicolás;Gloria elgueta y claudia marchant srl - tiempo robado editoras;Español;122;Tapa blanda;;9789569364358;2023-08-13
+52183541;Fanny Mendelssohn Hensel Piano Music (libro en Inglés);25050;34790;Libro físico;Fanny mendelssohn hensel;Dover publications;Inglés;59;Tapa blanda;;9780486435855;2023-08-13
+3247854;Not Dead & not for Sale: The Earthling Papers: A Memoir (libro en Inglés);21710;30150;Libro físico;Scott weiland;Scribner book company;Inglés;238;Tapa blanda;9780743297172;9780743297172;2023-08-13
+3338269;Esa Belleza;14880;17500;Libro físico;John berger;Bartleby editores;Español;68;Tapa blanda;8495408473;9788495408471;2023-08-13
+1033144;La Ciudad y el Medio Natural;33540;46580;Libro físico;Jose fariña tojo;Akal;Español;344;Tapa blanda;8446016575;9788446016571;2023-08-13
+1641682;Landscape Graphics: Plan, Section, and Perspective Drawing of Landscape Spaces (libro en Inglés);27530;38240;Libro físico;Grant reid;Watson-guptill;Inglés;216;Tapa blanda;0823073335;9780823073337;2023-08-13
+51447585;Diremos que nos Conocimos en un Bar: El Amor en la era del Like (Ilustración);15650;21740;Libro físico;Laura santolaya (p8ladas);Lunwerg editores;Español;160;Tapa blanda;;9788417560911;2023-08-13
+4203023;Walker Evans. Photopoche (Photo Poche (Lunwerg));15600;21670;Libro físico;Photopoche;Lunwerg editores;Español;144;Tapa blanda;8497854500;9788497854504;2023-08-13
+47335452;Historia de la Opera;52440;72830;Libro físico;Gabriel men&eacute;ndez torrellas;Akal;Español;528;Tapa blanda;;9788446042372;2023-08-13
+51887304;Como Crear una Obra de Teatro;5670;7560;Libro físico;Edicioneslarousse;Ediciones larousse;;80;Tapa blanda;;9786072121416;2023-08-13
+3055995;Koolau el Leproso;6280;15700;Libro físico;Jack london;Libros del zorro rojo;Español;33;Tapa dura;8496509354;9788496509351;2023-08-13
+49506538;Nacer Crecer Metallica Morir;29180;53050;Libro físico;Paul brannigan; ian winwood;Malpaso ediciones;Español;400;Tapa dura;;9788417081485;2023-08-13
+52973440;Manual de Estructuras Ilustrado;51620;71700;Libro físico;Francis d.k. ching,barry onouye;Gustavo gili;Español;344;Tapa blanda;;9788425232725;2023-08-13
+9269025;Escucha Esto;34050;47290;Libro físico;Alex ross;Seix barral;Español;624;Tapa blanda;8432209473;9788432209475;2023-08-13
+34490022;F�Nix n� 03 (Nueva Edici�N);24570;28900;Libro físico;Osamu tezuka;Planeta deagostini cómics;Español;340;Tapa dura;8415480504;9788415480501;2023-08-13
+48194875;Mythomorphia: An Extreme Coloring and Search Challenge (libro en Inglés);20260;28140;Libro físico;Kerby rosanes;Plume;Inglés;96;Tapa blanda;;9780735211094;2023-08-13
+48311477;Infarto del Alma;17000;20000;Libro físico;Eltit gonzález, ana diamela nadine;Editorial hueders limitada;Español;81;Tapa blanda;;9789563650358;2023-08-13
+49139777;Mis Mejores Técnicas y Consejos. Fotografía de Alta Calidad (Photoclub);20280;28170;Libro físico;José maría mellado;Anaya multimedia;Español;312;Tapa blanda;;9788441539556;2023-08-13
+53299045;280 Japanese Lace Stitches: A Dictionary of Beautiful Openwork Patterns (libro en Inglés);27980;38860;Libro físico;Vogue, nihon ; roehm, gayle;Tuttle publishing;Inglés;152;Tapa blanda;;9780804854047;2023-08-13
+52957215;Lettering sin Límites: Aprende el Arte de Dibujar Letras Donde y Como Quieras;22680;32400;Libro físico;Alejandra perdomo bohorquez; luis miguel caama&ntilde;o morales;Diana;Español;120;Tapa blanda;9789584288820;9789584288820;2023-08-13
+50029018;Manifiesto del Tercer Paisaje;12580;14800;Libro físico;Gilles clement;Gustavo gili;Español;84;Tapa blanda;;9788425231261;2023-08-13
+53943783;Japanese Woodblock Prints. 40Th ed. (libro en Inglés);29580;34800;Libro físico;Andreas marks;Taschen;Inglés;512;Tapa dura;;9783836587532;2023-08-13
+52890205;Jamie Hewlett (libro en Inglés);38120;52950;Libro físico;Jamie hewlett;Taschen;Inglés;512;Tapa dura;9783836582636;9783836582636;2023-08-13
+3739186;Accelerated Piano Adventures, Book 1, Lesson Book: For the Older Beginner (libro en inglés);17440;24220;Libro físico;Faber, nancy ; faber, randall;Faber piano adventures;Inglés;96;Tapa blanda;1616772050;9781616772055;2023-08-13
+52787727;A Proposito de Nada;22870;30490;Libro físico;Woody allen;Alianza;Español;440;Tapa blanda;;9788491819950;2023-08-13
+1021713;Las Cosas tal Como son;33020;45860;Libro físico;Christian caujolle,mary panzer,world press photo;Blume;Español;384;Tapa blanda;8498011353;9788498011357;2023-08-13
+986335;Teoría del Arte;39150;54380;Libro físico;Jose jimenez;Tecnos;Español;416;Tapa blanda;843093779x;9788430937790;2023-08-13
+47340734;EN TORNO AL GRABADO: LA ESTAMPA Y SU PRACTICA REFLEXIVA (En papel);26350;36600;Libro físico;;S.l. entorno grafico jard 2006;;;Tapa blanda;;9788416319114;2023-08-13
+2918495;Hipótesis del Cine: Pequeño Tratado Sobre la Transmisión del Cine a la Escuela y Fuera de Ella: 119 (Laertes Educación);25620;35590;Libro físico;Alain bergala;Laertes;Español;206;Tapa blanda;8475846076;9788475846071;2023-08-13
+52703311;The new Comedy Bible: The Ultimate Guide to Writing and Performing Stand-Up Comedy (libro en Inglés);30430;42260;Libro físico;Judy carter;Indie books international;Inglés;294;Tapa blanda;;9781947480841;2023-08-13
+2909341;Magia Semitica;26540;36860;Libro físico;R. campbell thompson;Editorial humanitas, s.l.;Español;288;Tapa blanda;8479103698;9788479103699;2023-08-13
+47310045;40 Años What the Fuck! (40 Años Wtf);17850;21000;Libro físico;Emmanuelle teyras;Planeta deagostini cómics;Español;160;Tapa dura;;9788416543571;2023-08-13
+1544535;The art of Animal Drawing: Construction, Action, Analysis, Caricature (Dover art Instruction) (libro en Inglés);16010;22240;Libro físico;Ken hultgren;Dover publications;Inglés;144;Tapa blanda;0486274268;9780486274263;2023-08-13
+1547415;The Soundscape (libro en Inglés);22870;31760;Libro físico;R. murray schafer;Destiny books;Inglés;320;Tapa blanda;9780892814558;9780892814558;2023-08-13
+3393893;La Cadena Áurea de Orfeo;21790;30260;Libro físico;Joscelyn godwin;Siruela;Español;172;Tapa blanda;8498413397;9788498413397;2023-08-13
+26937171;Manual de Patronaje de Moda;48500;67360;Libro físico;Jo barnfield,andrew richards;Promopress;Español;192;Tapa blanda;8492810823;9788492810826;2023-08-13
+6989077;La Condesa Sangrienta;20560;28560;Libro físico;Alejandra pizarnik;Libros del zorro rojo;Español;32;Tapa blanda;8496509729;9788496509726;2023-08-13
+1247741;Historia Social de la Literatura y el Arte II;18350;25480;Libro físico;Arnold hauser;Debolsillo;Español;544;Tapa blanda;8497932218;9788497932219;2023-08-13
+50551931;El Peluquero de los Beatles;28270;40380;Libro físico;Leslie cavendish;Indicios;Español;304;Tapa blanda;;9788415732358;2023-08-13
+50852158;Ser Ilustrador 100 Maneras de Dibujar un Pájaro o Cómo Desarrollar tu Profesión;39130;54350;Libro físico;Felix scheinberger;Gustavo gili;Español;224;Tapa blanda;;9788425231322;2023-08-13
+53378589;Jujutsu Kaisen 08;19430;26990;Libro físico;Gege akutami;Norma editorial, s.a.;Español;192;Tapa blanda;;9788467945157;2023-08-13
+54468162;Retratos;10200;12000;Libro físico;Gabriela corral;Versalita ediciones;Español;88;Tapa blanda;;9789560950642;2023-08-13
+52099571;Friends Forever [25Th Anniversary Ed]: The one About the Episodes (libro en Inglés);43030;59770;Libro físico;Gary susman;Harper design;Inglés;240;Tapa dura;;9780062976444;2023-08-13
+48981569;Mitología Griega y Romana;11730;13800;Libro físico;Jean humbert;Gustavo gili;Español;312;Tapa blanda;;9788425230554;2023-08-13
+53161161;Tomie;56860;78970;Libro físico;Junji ito;Ecc;Español;752;Tapa blanda;9788418569524;9788418569524;2023-08-13
+52429400;Jorge Gonzalez;6800;8000;Libro físico;Constanza gutierrez;Hueders;Español;;Tapa blanda;9789563651553;9789563651553;2023-08-13
+52343986;Recordando a Kurt Cobain;34230;;Libro físico;Danny goldberg;Alianza editorial;Español;352;Tapa blanda;9788491818434;9788491818434;2023-08-13
+52794579;La Mitología Según Juego de Tronos;27910;38770;Libro físico;Gwendal fossois;Minotauro;Español;160;Tapa blanda;;9788445008980;2023-08-13
+52236645; Chile Zombi - el Despertar de Cthulhu;16130;18980;Libro físico;M.m. kaiser;Mantícora;Español;266;Tapa blanda;9789566021223;9789566021223;2023-08-13
+50841095;Historia Ilustrada del Rock;33450;46460;Libro físico;Susana monteagudo duro; luis demano;Litera libros;Español;48;Tapa dura;9788494843952;9788494843952;2023-08-13
+49906780;Arte, Naturaleza y Espiritualidad;30610;42510;Libro físico;Maria eugenia manrique;Kairos;Español;136;Tapa blanda;;9788499886251;2023-08-13
+49517013;Zawa Zawa: Treasured art Works of Ashley Wood (libro en Japonés);43650;60620;Libro físico;Wood, ashley;Pie international;Inglés;224;Tapa blanda;;9784756246561;2023-08-13
+52911141;Tarot (libro en Inglés);48110;66820;Libro físico;Jessica hundley;Taschen;Inglés;520;Tapa dura;;9783836579872;2023-08-13
+53264439;Lexicón Para el Análisis Cultural;20830;24500;Libro físico;Mieke bal;Ediciones akal;Español;176;Tapa blanda;9788446050469;9788446050469;2023-08-13
+49114533;Apuntes Para un Diccionario de la Moda;12750;15000;Libro físico;Pia montalva;Hueders;Español;348;Tapa blanda;;9789563650587;2023-08-13
+50849411;Nunca Cumplimos 30. Una Historia Oral del Canal 2 Rock&Pop;12750;15000;Libro físico;Javier correa,maria ignacia pentz;Libros de mentira;;204;Tapa blanda;9789569136597;9789569136597;2023-08-13
+3085862;piano adventures - primer level,lesson book;14990;20820;Libro físico;Faber, nancy ; faber, randall;Faber piano adventures;Inglés;72;Tapa blanda;9781616770754;9781616770754;2023-08-13
+4670576;Por Crom! La Guia de Conan el Barbaro;30570;42460;Libro físico;Marc gras;Quarentena ediciones;Español;191;Tapa blanda;;9788415191230;2023-08-13
+24501142;The cat on a hot Thin Groove (libro en Inglés);12330;17130;Libro físico;Gene deitch;Fantagraphics books;Inglés;160;Tapa blanda;1606996177;9781606996171;2023-08-13
+17254536;Representacion Arquitectonica: Elaboracion de Planos;11240;16050;Libro físico;Margarita calceran vila,manuel j. luque gonzalez;Delta publicaciones;Español;325;Tapa blanda;8415581270;9788415581277;2023-08-13
+52429341;Diseño y Creacion de Personajes. Desde el Boceto Hasta su Realiza Cion en 3d;57460;79810;Libro físico;Varios autores;Parramón;Español;160;Tapa dura;;9788434242234;2023-08-13
+52701064;Matematicas de Cine;28070;38990;Libro físico;Jose maria sorando muzas;Guadalmazan;Español;256;Tapa blanda;9788417547172;9788417547172;2023-08-13
+3304833;ver cine. los públicos cinematográficos en el siglo xx;25620;35590;Libro físico;José carlos rueda,josé-vidal pelaz;Ediciones rialp, s.a.;Español;256;;8432133922;9788432133923;2023-08-13
+53437601;Piano Para Niños: Como Enseñar a Principiantes a Tocar Instantáneamente con el Musicolor Method®: La Forma # 1 del Mundo Para Enseñar y Aprender.   Al Instante (Musicolor Method Para Piano);26400;36670;Libro físico;Andrew ingkavet;Independently published;Español;44;Tapa blanda;;9781072078906;2023-08-13
+54043600;Avatar: The Last Airbender Cookbook: Official Recipes From the Four Nations: The Official Cookbook: Recipes From the Four Nations (libro en Inglés);31670;43990;Libro físico;Jenny dorsey;Insight editions;Inglés;128;Tapa dura;;9781647223380;2023-08-13
+50752836;Psicodelia en la Cultura Visual de la era Beat 1962-1972;28310;39320;Libro físico;Varios autores;Circulo de bellas artes;Español;80;Tapa blanda;;9788494775284;2023-08-13
+1091198;El Templo en el Hombre: Arquitectura Sagrada y el Hombre Perfecto;15890;22070;Libro físico;René adolphe schwaller de lubicz;Edaf;Español;160;Tapa blanda;8441419558;9788441419551;2023-08-13
+53473552;Avatar Last Airbender Lost Adventures Library ed hc (Avatar: The Last Airbender) (libro en Inglés);43120;59890;Libro físico;Gene luen yang;Dark horse books;Inglés;312;Tapa dura;;9781506722740;2023-08-13
+1661220;A Modern Method for Guitar - Complete: Volumenes 1, 2, 3 (libro en Inglés);43250;60070;Libro físico;William leavitt;Berklee press publications;Inglés;424;Tapa blanda;0876390114;9780876390115;2023-08-13
+52394068;Cómo Escuchar Jazz;31410;43630;Libro físico;Ted gioia;Turner publicaciones s.l.;Español;232;Tapa blanda;;9788417866617;2023-08-13
+53647494;Tales From the Forest Kingdom: Coloring Book (libro en Inglés);21410;29730;Libro físico;Karlzon, hanna;Gibbs smith;Inglés;64;Tapa dura;;9781423658344;2023-08-13
+9081228;Dinosaur Art: The World's Greatest Paleoart (libro en Inglés);36300;50420;Libro físico;White, steve;Titan books (uk);Inglés;188;Tapa dura;0857685848;9780857685841;2023-08-13
+47855750;Bob Dylan Letras Completas. Este Libro Viene en Tres Colores (Rosado,Amarillo y Verde) se Despacha el Color que Haya en Existencia al Momento de Realizar la Compra;35260;64100;Libro físico;Bob dylan;Malpaso;Español;1440;Tapa dura;;9788416665594;2023-08-13
+53671616;Camilo Sesto. Mi Ultima Cancion (Vol. 2);62760;87170;Libro físico;Elena gomez de la puerta;Chocolate editorial, sl;Español;448;Tapa dura;;9788494485299;2023-08-13
+52141149;The beautiful ones;24820;;Libro físico;Prince;Reservoir books;Español;288;Tapa dura;9788417511920;9788417511920;2023-08-13
+53077242;El Retrato. Técnicas de Iluminación: Dirección de Poses y Calidad de luz;42490;59010;Libro físico;Antonio garci;Anaya multimedia;Español;288;Tapa blanda;;9788441542723;2023-08-13
+46813629;Araki Tokyo Lucky Hole (libro en Francés);31660;43970;Libro físico;Araki, nobuyoshi;Taschen;Inglés;704;Tapa dura;;9783836556385;2023-08-13
+47523093;Tom of Finland xxl (libro en Multilingual);80110;111270;Libro físico;John waters;Taschen;Inglés;666;Tapa dura;;9783836527248;2023-08-13
+2000086;National Geographic: The Photographs (National Geographic Collectors Series) (libro en Inglés);21340;29640;Libro físico;Leah bendavid-val;National geographic society;Inglés;336;Tapa dura;1426202911;9781426202919;2023-08-13
+4220947;Michael Nyman Musica Experimental: De John Cage en Adelante;30770;42730;Libro físico;Michael nyman;Documenta universitaria;Español;260;Tapa blanda;8496742024;9788496742024;2023-08-13
+1093833;ciencia de la oración, la - bolsillo;12700;17640;Libro físico;Yiye ávila;Unilit;Español;146;Tapa blanda;0789910829;9780789910820;2023-08-13
+51354699;Showtime Piano Disney: Level 2a (libro en Inglés);17110;23770;Libro físico;Hal leonard corp;Faber piano adventures;Inglés;24;Tapa blanda;;9781616776992;2023-08-13
+53619076;Dibujante Nocturno;43040;59780;Libro físico;Francisco garces;Anaya multimedia;Español;160;Tapa dura;;9788441543652;2023-08-13
+54267457;E. T. Talking Figurine (libro en Inglés);19790;27480;Libro físico;Running press;Rp minis;Inglés;32;Tapa blanda;;9780762480272;2023-08-13
+4119357;Sendas Oníricas de Singapur: Retrato de una Metrópolis Potemkin.   O Treinta Años de Tabla Rasa (Territorios);14860;21230;Libro físico;Rem koolhaas;Gustavo gili;Español;86;Tapa blanda;842522392x;9788425223921;2023-08-13
+51394085;30.000 años de arte;35850;49790;Libro físico;Array;Phaidon;Español;640;Tapa dura;;9780714878997;2023-08-13
+51585496;Lettering Alphabets & Artwork: Inspiring Ideas & Techniques for 60 Hand-Lettering Styles (libro en Inglés);27230;32030;Libro físico;Jay roeder;Union square & co.;Inglés;176;Tapa blanda;;9781454710912;2023-08-13
+52905723;Gaudí. La Obra Completa – 40Th Anniversary Edition;29580;34800;Libro físico;Rainer zerbst;Taschen;Español;512;Tapa dura;;9783836566179;2023-08-13
+28854929;Ciudades Rebeldes: Del Derecho de la Ciudad a la Revolución Urbana;22610;26600;Libro físico;David harvey;Akal;Español;240;Tapa blanda;8446037998;9788446037996;2023-08-13
+49112378;El Proyecto Fotográfico Personal: Guía Completa Para su Desarrollo: De la Idea a la Presentación: 26 (Fotoruta);43600;60550;Libro físico;Rosa isabel v&aacute;zquez l&oacute;pez;Jdej editores;Español;292;Tapa blanda;;9788415131984;2023-08-13
+51975897;The Literary Witches Oracle: A 70-Card Deck and Guid (libro en Inglés);25520;35450;Libro físico;Taisia kitaiskaia;Clarkson potter publishers;Inglés;70;Cartas;;9781984824714;2023-08-13
+1236956;Annie Hall;14370;19960;Libro físico;Woody allen;Tusquets;Español;152;Tapa blanda;8483106205;9788483106204;2023-08-13
+1248203;Historia social de la literatura 1;18350;25480;Libro físico;Arnold hauser;Debolsillo;Español;576;Tapa blanda;849793220x;9788497932202;2023-08-13
+4672256;Fabulas;31370;44810;Libro físico;Jean de la fontaine;Libros del zorro rojo;Español;160;Libro de cartón;;9788492412747;2023-08-13
+52397266;Arpilleras. Coleccion del Museo de la Memoria y los Derechos Humamos;24440;28750;Libro físico;Varios autores;Ocho libros editores;;;;;9789563355130;2023-08-13
+52357202;30 Días de Acuarela. Un Curso de Acuarela en 30 Proyectos;27030;31800;Libro físico;Jenna rainey;Editorial gustavo gili s.l.;Español;218;Tapa blanda;;9788425232008;2023-08-13
+49681301;Sandro. El fuego eterno;17850;32450;Libro físico;Mariano del mazo;Aguilar;Español;192;Tapa blanda;;9789877351729;2023-08-13
+27870866;From Hell;45160;62720;Libro físico;Alan moore, eddie campbell;Planeta cómic;Español;584;Tapa dura;8415480849;9788415480846;2023-08-13
+53194688;Constelaciones: Guía Ilustrada de Astrología;26370;36620;Libro físico;Carlota santos;Plan b;Español;144;Tapa blanda;;9788417809997;2023-08-13
+48981565;El Arte de Llevar una Vida Creativa;29240;40610;Libro físico;Frank berzbach;Gustavo gili;Español;168;Tapa blanda;9788425230431;9788425230431;2023-08-13
+53111299;Resident dog (Volume Two): Incredible Homes and the Dogs who Live There;51470;71490;Libro físico;Nicole england;Hardie grant books;Inglés;272;Tapa dura;;9781784883508;2023-08-13
+52036170;Art of Soul (libro en Inglés);39610;55010;Libro físico;Pixar;Chronicle books;Inglés;168;Tapa dura;;9781452179810;2023-08-13
+6138892;Dialogos Entre Arte y Terapia: Del Arte Psicotico al Desarrollo d e la Arteterapia y sus Aplicaciones;36110;50150;Libro físico;Eva marxen;Gedisa;Español;224;Tapa blanda;9788497846677;9788497846677;2023-08-13
+48395112;Ultimate Star Wars: Characters, Creatures, Locations, Technology, Vehicles (libro en Inglés);48740;67700;Libro físico;Ryder windham;Dk publishing (dorling kindersley);Inglés;320;Tapa dura;;9781465436016;2023-08-13
+2615011;Antonio Vivaldi: The Four Seasons - Complete Edition: For Violin and Piano Reduction (libro en Inglés);31660;43970;Libro físico;Antonio (co vivaldi;Schirmer;Inglés;56;Tapa blanda;0634078976;9780634078972;2023-08-13
+1751033;The Arina Tanemura Collection: The art of Full Moon (libro en Inglés);25950;36040;Libro físico;Arina tanemura;Viz media;Inglés;68;Tapa blanda;1421518856;9781421518855;2023-08-13
+4471727;If you Like Monty Python.    Here are Over 200 Movies, tv Shows and Other Oddities That you Will Love (libro en Inglés);9950;13820;Libro físico;Zack handlen;Limelight editions;Inglés;170;Tapa blanda;;9780879103934;2023-08-13
+1841827;Catching the big Fish (libro en Inglés);25790;35820;Libro físico;David lynch;Tarcherperigee;Inglés;192;Tapa dura;1585425400;9781585425402;2023-08-13
+49587205;Stradivari Violín, Vol. 2 Castellano (cd Incluido);40620;56410;Libro físico;Joan alfaras;Boileau 84-8020;Español;44;Tapa blanda;;9788417199135;2023-08-13
+50180456;Uncharted: El Cuarto Laberinto;30430;42260;Libro físico;Christopher golden;Minotauro;Español;368;Tapa blanda;;9788445005491;2023-08-13
+53637619;Lo que Hacen los Artistas;19380;22800;Libro físico;Leonard koren;Gustavo gili;Español;128;Tapa blanda;;9788425233371;2023-08-13
+52344561;La Furia de las Imágenes: Notas Sobre la Postfotografía (Rústica Ensayo);31220;43360;Libro físico;Joan fontcuberta;Galaxia gutenberg;Español;272;Tapa blanda;;9788417971793;2023-08-13
+47245094;Diseño Generativo: Procesos Para Concebir Nuevas Formas Arquitectonicas;26630;48410;Libro físico;Asterios agkathidis;Promopress;Español;160;Tapa blanda;;9788415967880;2023-08-13
+47247714;Canciones de Amor;20020;36400;Libro físico;Ted gioia;Turner;Español;440;Tapa blanda;;9788415832201;2023-08-13
+48297854;Oleo. Guia Ilustrada Para la Creatividad y Arte;15570;28300;Libro físico;Na;Lexus;Español;112;Libro de cartón;;9789962043997;2023-08-13
+3779769;art of rapunzel;39200;54450;Libro físico;Jeff kurtti;Chronicle books;Inglés;160;Tapa dura;0811875555;9780811875554;2023-08-13
+54630482;Protocultura: Crónica de las Guerras Robotech;16070;18900;Libro físico;Gonzalo oyanedel, óscar salas;Dogitia;Español;212;Tapa blanda;;9789569519277;2023-08-13
+46312369;Breve Historia del Cómic;22510;40920;Libro físico;Gerardo vilches fuentes;Nowtilus;Español;310;Tapa blanda;8499676324;9788499676326;2023-08-13
+2923925;El Mosaico;48280;67060;Libro físico;Joaquim chavarria;Parramon;Español;160;Tapa dura;8434221322;9788434221321;2023-08-13
+54052461;Condorito mis Primeros Años;4900;6390;Libro físico;René ríos boettiger “pepo”;Planeta cómic;Español;72;Tapa blanda;;9789569994715;2023-08-13
+54045783;Dibujar y Colorear Caras Anime y Manga;25580;35530;Libro físico;Nao yazawa;Ciceron;Español;128;Tapa blanda;;9789463597999;2023-08-13
+53049941;Fotografía de Arquitectura e Interiorismo: Consigue Realizar 50 Imágenes Espectaculares: 36 (Fotoruta);15380;21360;Libro físico;V&iacute;ctor s&aacute;jara;Jdej editores;Español;136;Tapa blanda;;9788412232912;2023-08-13
+50266246;Mi último suspiro;25450;36360;Libro físico;Luis buñuel;Taurus;Español;328;Tapa blanda;;9788430619870;2023-08-13
+978597;Arquitectura Gotica;55880;77610;Libro físico;Paul frankl;Catedra;Español;656;Tapa blanda;8437620139;9788437620138;2023-08-13
+53284970;Diseñar el Desorden;30530;42400;Libro físico;Richard sennett,pablo sendra;Alianza editorial;Español;232;Tapa blanda. con solapas;;9788413623153;2023-08-13
+53316163;Los fantasmas de Pinochet;17430;20500;Libro físico;Francisco ortega, félix vega;Planeta cómic;Español;136;Tapa blanda;9789569994524;9789569994524;2023-08-13
+46475374;Figuras Humanas. Dibujo al Natural (Clase de Dibujo);23590;32760;Libro físico;Eddie armer;Hispano europea;Español;96;Tapa blanda;;9788425521126;2023-08-13
+49307433;The Movie art of syd Mead: Visual Futurist (libro en Inglés);51880;72050;Libro físico;Syd mead;Titan books (uk);Inglés;256;Tapa dura;;9781785651182;2023-08-13
+52874191;The Little Book of Prada: The Story of the Iconic Fashion House (Little Book of Fashion) (libro en Inglés);24890;34570;Libro físico;Graves laia farran graves;Welbeck publishing;Inglés;160;Tapa dura;;9781787394599;2023-08-13
+47590198;Caravaggio. The Complete Works;71290;99020;Libro físico;Sebastian schütze;Taschen;Inglés;306;Tapa dura;;9783836555814;2023-08-13
+2740217;Imaginative Realism: How to Paint What Doesn't Exist (Volume 1) (James Gurney Art) (libro en Inglés);29960;41610;Libro físico;James gurney;Andrews mcmeel publishing;Inglés;224;Tapa blanda;0740785508;9780740785504;2023-08-13
+53626027;Vacaciones en Crystal Lake: La Saga de Viernes 13;49810;69180;Libro físico;Jesús félix sacristán;Applehead team creaciones;Español;380;Tapa blanda;9788412396423;9788412396423;2023-08-13
+9077132;London. Portrait of a City (libro en Plurilingue);69080;95940;Libro físico;Golden, reuel;Taschen;Inglés;552;Tapa dura;3836528770;9783836528771;2023-08-13
+3764521;Victoria Hagan: Interior Portraits (libro en Inglés);56120;77940;Libro físico;Marianne hagan;Rizzoli international publications;Inglés;240;Tapa dura;0847834891;9780847834891;2023-08-13
+2023790;Alla Prima: A Contemporary Guide to Traditional Direct Painting (libro en Inglés);36340;50470;Libro físico;Al gury;Watson-guptill publications;Inglés;160;Tapa dura;0823098346;9780823098347;2023-08-13
+1643176;The Sopranos Family Cookbook (libro en Inglés);27720;38500;Libro físico;Artie bucco;Grand central publishing;Inglés;208;Tapa dura;0446530573;9780446530576;2023-08-13
+49269133;Ib Visual Arts Course Book: Oxford ib Diploma Programme (libro en Inglés);75340;104640;Libro físico;Jayson paterson;Oup oxford;Inglés;160;Tapa blanda;;9780198377917;2023-08-13
+52077458;Soft City: Building Density for Everyday Life (libro en Inglés);50050;69510;Libro físico;David sim;Island press;Inglés;256;Tapa blanda;;9781642830187;2023-08-13
+53445139;Cómo Improvisar en Música Moderna: Herramientas y Ejercicios Para el Desarrollo de Frases y Solos;31220;43360;Libro físico;Ricky schneider;Independently published;Español;150;Tapa blanda;;9781729402245;2023-08-13
+54178495;Rescue Dogs (libro en Inglés);28990;40260;Libro físico;Sally muir;Pavilion books;Inglés;160;Tapa dura;;9781911682783;2023-08-13
+54287524;The World According to Alexander Mcqueen (libro en Inglés);26260;36470;Libro físico;Louise rytter;Thames & hudson;Inglés;176;Tapa dura;;9780500024157;2023-08-13
+54243027;Surfer Magazine: 1960-2020;56300;78200;Libro físico;Grant ellis;Rizzoli international publications;Inglés;304;Tapa dura;;9780847871490;2023-08-13
+54414145;Jojo 6251: The World of Hirohiko Araki (libro en Inglés);31670;43990;Libro físico;Hirohiko araki;Viz media;Inglés;178;Tapa dura;;9781974728367;2023-08-13
+53694021;Living in Japan. 40Th ed.;40490;56240;Libro físico;Reto guntli;Taschen;Español;480;Tapa dura;;9783836588447;2023-08-13
+51801152;Tinta Consciente: El Significado Oculto de los Tatuajes (Practica);15650;21740;Libro físico;Lisa barretta;Planeta;Español;208;Tapa dura;;9788417371814;2023-08-13
+18435934;Casa Vivienda Jardin el Proyecto y las Medidas en la Construccion;34680;40800;Libro físico;Ludwig neufert peter / neff;Gustavo gili;Español;255;Tapa blanda;8425226465;9788425226465;2023-08-13
+46558332;Leonardo da Vinci Obra Grafica;34060;47310;Libro físico;Zollner nathan /;Taschen;Español;768;Tapa blanda;9783836554398;9783836554398;2023-08-13
+51932131;Clásicos am. Una Historia Sentimental de Latinoamérica;11800;14900;Libro físico;Ricardo martínez;Planeta;Español;350;Tapa blanda;;9789563606133;2023-08-13
+47634349;Zayn;23730;33900;Libro físico;Zayn malik;Libros cúpula;Español;288;Tapa blanda;;9788448022778;2023-08-13
+52078548;Michael Jackson: La Historia Detras de sus 263 Canciones y 41 vid Eoclips;71300;99030;Libro físico;Lecocq, richard;Blume;Español;608;Tapa dura;;9788417492991;2023-08-13
+51194111;Las Grandes Mentes no Piensan Igual;14470;20100;Libro físico;Emily gosling;Blume;Español;128;Tapa dura;;9788417492540;2023-08-13
+54298911;El Espíritu del Agua;12670;14900;Libro físico;Rafael rubio; planeta sostenible;Planeta sostenible;Español;32;Tapa dura;;9789566050230;2023-08-13
+49087949;El Lied romántico alemán;29020;38690;Libro físico;Anton cardó;Alianza editorial;Español;520;Tapa blanda;;9788491048350;2023-08-13
+50617526;La Decadencia de la Mentira y Otros Ensayos;27440;38110;Libro físico;Oscar wilde;Taurus;Español;312;Tapa blanda;9788430619993;9788430619993;2023-08-13
+4706080;Ensenando a Tocar a los Deditos Teaching Little Fingers to Play (John Thompson: Curso Moderno Para el Piano) (libro en Inglés);12200;16940;Libro físico;John thompson;Willis music company;Inglés;36;Tapa blanda;;9781423494379;2023-08-13
+54045081;Guweiz. El Arte de gu Zheng wei;44230;61430;Libro físico;Gu zheng wei;Anaya multimedia;Español;152;Tapa dura;;9788441545021;2023-08-13
+53052419;Accidentally wes Anderson (libro en Inglés);37630;52270;Libro físico;Wally koval;Voracious;Inglés;368;Tapa dura;;9780316492737;2023-08-13
+51236226;Como Dominar el Torno de Alfarero;34920;48500;Libro físico;Ben carter;Acanto;Español;208;Tapa blanda;;9788415053910;2023-08-13
+49896059;Atlas Ilustrado Historia del Jazz Clasico;26880;48870;Libro físico;Jorge montoro;Susaeta;Español;254;Tapa dura;;9788467756784;2023-08-13
+51975560;El Cerebro del Artista;16820;20900;Libro físico;Dierssen sotos, mara;Shackleton books;Español;176;Tapa blanda;;9788417822378;2023-08-13
+50101159;Sketching From the Imagination: Dark Arts (libro en Inglés);36000;50000;Libro físico;3dtotal publishing;3dtotal publishing;Inglés;320;Tapa blanda;;9781909414532;2023-08-13
+52052819;Linda Mccartney. The Polaroid Diaries (libro en Inglés);55690;77350;Libro físico;Ekow eshun;Taschen;Inglés;232;Tapa dura;;9783836558112;2023-08-13
+53667270;Ad Nauseam: Newsprint Nightmares From the &#39; 70S and &#39; 80S (libro en Inglés);46660;64800;Libro físico;Michael gingold;1984 publishing;Inglés;368;Tapa dura;;9781948221184;2023-08-13
+36676633;La Expresión Corporal. 300 Ejercicios de Expresión Corporal, Mimo y Juego Teatral (Taller de Teatro);28250;51370;Libro físico;Jacques choque;Ma non troppo;Español;192;Tapa blanda;8415256590;9788415256595;2023-08-13
+48304730;Cantos de Toda una Vida: En Busca de un Corazón de oro;42430;58930;Libro físico;Krishna das;La llave;Español;360;Tapa dura;;9788416145362;2023-08-13
+2615060;marks of opulence,the why, when and where of western art 1000-1900 ad;19050;26460;Libro físico;Colin platt;Harper perennial;Inglés;402;Tapa blanda;0006531563;9780006531562;2023-08-13
+29370017;La Facción Caníbal: Historia del Vandalismo Ilustrado;24570;28900;Libro físico;Servando germán rocha pérez;Felguera ediciones;Español;522;Tapa blanda;8493746770;9788493746773;2023-08-13
+54267065;The Legend of Korra: Patterns in Time (libro en Inglés);19380;26920;Libro físico;Michael dante dimartino;Dark horse books;Inglés;80;Tapa blanda;;9781506721866;2023-08-13
+48168445;Rimas de Reojo;39250;46180;Libro físico;Alex webb;La fábrica;Español;112;Tapa dura;;9788416248940;2023-08-13
+52845216;Amiga, Date Cuenta;27910;38770;Libro físico;Andonella;Planeta;Español;192;Tapa blanda;;9788408225331;2023-08-13
+52010000;El abc de la Bauhaus: La Bauhaus y la Teoría del Diseño;36660;50910;Libro físico;Ellen lupton,j. abbott miller;Gustavo gili;Español;72;Tapa blanda;;9788425232640;2023-08-13
+47977036;Heavier than Heaven;21370;30530;Libro físico;Charles r. cross;Reservoir books;Español;512;Tapa dura;;9788416709373;2023-08-13
+47967560;Atrapad la Vida: Lecciones de Cine Para Escultores del Tiempo;29920;41550;Libro físico;Andrei tarkovski;Errata naturae;Español;192;Tapa blanda;;9788416544295;2023-08-13
+51600550;The art of Days Gone (libro en Inglés);43120;59890;Libro físico;;Dark horse books;Inglés;216;Tapa dura;;9781506710099;2023-08-13
